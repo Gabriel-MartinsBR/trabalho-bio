@@ -1,0 +1,9 @@
+﻿etapa,antes,excluidos,restantes,motivo
+Residência em AL,22936,0,22936,"município ausente, malformado ou fora de AL"
+Ano de 2025,22936,0,22936,data ausente/inválida ou ano diferente
+Óbitos não fetais,22936,0,22936,óbito fetal ou tipo não informado
+Sexo masculino,22936,10077,12859,sexo feminino ou ignorado
+Homens com idade conhecida,12859,4,12855,idade ignorada
+Homens de 15 a 29 anos,12855,11731,1124,fora da faixa de 15 a 29 anos
+Raça/cor negra ou branca,1124,20,1104,"raça/cor ausente, amarela ou indígena"
+Histograma dos homicídios,1107,0,1107,"idade ignorada, apenas para o gráfico"

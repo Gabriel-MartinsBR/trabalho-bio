@@ -1,0 +1,36 @@
+Residentes em Alagoas: 22936 | excluídos: 0
+Óbitos de 2025: 22936 | excluídos: 0
+Óbitos não fetais: 22936 | excluídos: 0
+
+Comprimento original de IDADE:
+IDADE
+3    22936
+Unidades de IDADE:
+IDADE
+0       38
+1       92
+2      265
+3      178
+4    22124
+5      235
+9        4
+Idade em anos completos:
+count      22932.0
+mean     64.071908
+std      22.397317
+min            0.0
+25%           52.0
+50%           69.0
+75%           80.0
+max          115.0
+
+Faltantes depois do tratamento:
+idade_anos         4
+sexo               6
+raca             627
+raca_grupo       865
+escolaridade    4867
+local_obito       14
+homicidio          0
+dtype: int64
+Salvo em: C:\Users\Gabriel\.codex\.chatgpt-projects\g-p-6ac2db385e288191ae600e8cc608f09d\output\Trabalho_Bioestatistica_Organizado\dados\DOAL2025_tratado.csv

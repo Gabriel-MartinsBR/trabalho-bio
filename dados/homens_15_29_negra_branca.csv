@@ -1,0 +1,1105 @@
+﻿TIPOBITO,DTOBITO,IDADE,SEXO,RACACOR,ESC,CODMUNRES,LOCOCOR,CAUSABAS,idade_anos,sexo,raca,raca_grupo,escolaridade,local_obito,cid3,homicidio,meio
+2,29042025,418,1,4,4,270030,1,V284,18.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V28,False,
+2,13032025,416,1,4,3,270160,3,X999,16.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X99,True,Objeto cortante
+2,10032025,424,1,4,3,270030,5,W799,24.0,Masculino,Parda,Negra,4 a 7 anos,Outros,W79,False,
+2,19032025,422,1,4,4,270255,3,X709,22.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,X70,False,
+2,24032025,425,1,4,,270400,1,V234,25.0,Masculino,Parda,Negra,,Hospital,V23,False,
+2,19042025,423,1,4,3,270690,3,X950,23.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,16042025,423,1,4,3,270860,5,K858,23.0,Masculino,Parda,Negra,4 a 7 anos,Outros,K85,False,
+2,08042025,426,1,4,3,270770,1,X954,26.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,04042025,428,1,4,4,270430,4,X954,28.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,06042025,422,1,4,4,270430,4,X954,22.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,02042025,429,1,2,1,270235,3,I10,29.0,Masculino,Preta,Negra,Nenhuma,Domicílio,I10,False,
+2,30042025,426,1,2,4,270430,5,X709,26.0,Masculino,Preta,Negra,8 a 11 anos,Outros,X70,False,
+2,23062025,426,1,4,3,270430,4,Y009,26.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y00,True,Outros
+2,23062025,419,1,4,3,270430,4,X954,19.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,23062025,429,1,4,1,270430,4,X954,29.0,Masculino,Parda,Negra,Nenhuma,Via pública,X95,True,Arma de fogo
+2,11022025,423,1,2,3,270920,3,K746,23.0,Masculino,Preta,Negra,4 a 7 anos,Domicílio,K74,False,
+2,16042025,422,1,4,3,270430,1,X954,22.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,26052025,424,1,4,4,270490,1,V279,24.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V27,False,
+2,26052025,421,1,4,4,270380,4,X954,21.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,26052025,427,1,4,3,270380,4,X954,27.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,03062025,424,1,4,3,270430,4,X954,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,31052025,420,1,4,4,270430,4,X954,20.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,31052025,424,1,4,1,270430,4,X914,24.0,Masculino,Parda,Negra,Nenhuma,Via pública,X91,True,Outros
+2,27052025,423,1,4,3,270430,4,X994,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X99,True,Objeto cortante
+2,03062025,423,1,4,3,270850,5,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,27052025,427,1,4,3,270040,4,X954,27.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,27052025,427,1,4,,270740,4,X954,27.0,Masculino,Parda,Negra,,Via pública,X95,True,Arma de fogo
+2,24052025,423,1,4,2,270130,5,Y009,23.0,Masculino,Parda,Negra,1 a 3 anos,Outros,Y00,True,Outros
+2,27052025,420,1,4,3,270430,3,X950,20.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,19052025,418,1,4,3,270770,4,Y299,18.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y29,False,
+2,20012025,423,1,4,3,270915,4,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,22012025,428,1,4,3,270290,1,V289,28.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V28,False,
+2,07062025,423,1,4,4,270430,5,Y009,23.0,Masculino,Parda,Negra,8 a 11 anos,Outros,Y00,True,Outros
+2,16042025,425,1,4,4,270430,4,X959,25.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,15062025,429,1,4,9,270070,5,X954,29.0,Masculino,Parda,Negra,,Outros,X95,True,Arma de fogo
+2,06062025,425,1,4,5,270770,1,C819,25.0,Masculino,Parda,Negra,12 anos ou mais,Hospital,C81,False,
+2,27052025,427,1,4,2,270770,1,N498,27.0,Masculino,Parda,Negra,1 a 3 anos,Hospital,N49,False,
+2,11042025,427,1,4,4,270430,4,X954,27.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,15042025,418,1,2,3,270430,2,B207,18.0,Masculino,Preta,Negra,4 a 7 anos,Outro estabelecimento de saúde,B20,False,
+2,15042025,423,1,4,4,270690,1,W189,23.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,W18,False,
+2,11012025,424,1,4,4,270300,5,X955,24.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,24062025,424,1,4,3,270430,1,X954,24.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,24062025,423,1,4,5,270430,3,R99,23.0,Masculino,Parda,Negra,12 anos ou mais,Domicílio,R99,False,
+2,25062025,427,1,4,3,270430,4,X954,27.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,25062025,415,1,4,3,270670,4,X954,15.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,25062025,426,1,4,3,270040,3,X950,26.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,10062025,424,1,4,3,270430,3,X709,24.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X70,False,
+2,09062025,423,1,4,3,270770,5,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,01062025,422,1,4,3,270430,4,Y299,22.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y29,False,
+2,03052025,424,1,4,3,270650,5,Y349,24.0,Masculino,Parda,Negra,4 a 7 anos,Outros,Y34,False,
+2,26042025,429,1,4,3,270644,1,Y009,29.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,Y00,True,Outros
+2,28022025,422,1,4,4,270470,4,X954,22.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,17042025,425,1,4,3,270850,4,Y009,25.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y00,True,Outros
+2,17042025,422,1,4,4,270430,3,R99,22.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,R99,False,
+2,17042025,420,1,4,3,270430,4,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,04062025,424,1,4,1,270430,1,G809,24.0,Masculino,Parda,Negra,Nenhuma,Hospital,G80,False,
+2,15042025,421,1,4,4,270915,1,V279,21.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V27,False,
+2,13042025,425,1,4,3,270030,4,X954,25.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,10042025,424,1,4,3,270290,1,V274,24.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V27,False,
+2,13032025,428,1,4,4,270860,1,L899,28.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,L89,False,
+2,15012025,418,1,4,4,270290,5,W698,18.0,Masculino,Parda,Negra,8 a 11 anos,Outros,W69,False,
+2,19012025,418,1,4,4,270640,5,V289,18.0,Masculino,Parda,Negra,8 a 11 anos,Outros,V28,False,
+2,01052025,423,1,4,3,270430,4,X959,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,25062025,426,1,4,4,270430,1,A170,26.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,A17,False,
+2,18012025,425,1,4,4,270770,2,I420,25.0,Masculino,Parda,Negra,8 a 11 anos,Outro estabelecimento de saúde,I42,False,
+2,01062025,423,1,4,4,270670,4,X599,23.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X59,False,
+2,02062025,422,1,4,3,270430,4,X959,22.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,29042025,424,1,4,3,270430,4,Y349,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y34,False,
+2,29042025,424,1,4,3,270430,4,X954,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,29042025,420,1,4,3,270430,5,X959,20.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,06022025,419,1,4,1,270320,1,A419,19.0,Masculino,Parda,Negra,Nenhuma,Hospital,A41,False,
+2,26022025,428,1,4,4,270420,4,X954,28.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,28022025,428,1,4,5,270030,1,X689,28.0,Masculino,Parda,Negra,12 anos ou mais,Hospital,X68,False,
+2,13042025,419,1,4,3,270430,4,X954,19.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,13022025,422,1,4,3,270030,4,X954,22.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,13062025,419,1,4,3,270430,4,Y299,19.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y29,False,
+2,13062025,419,1,4,3,270430,1,Y299,19.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,Y29,False,
+2,09032025,424,1,4,3,270450,5,V435,24.0,Masculino,Parda,Negra,4 a 7 anos,Outros,V43,False,
+2,11032025,429,1,4,4,270690,5,X954,29.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,17032025,429,1,4,3,270430,4,X704,29.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X70,False,
+2,18032025,424,1,4,3,270040,4,X954,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,30042025,426,1,4,3,270860,4,X954,26.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,28012025,416,1,4,3,270140,5,X954,16.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,26012025,416,1,4,4,270255,4,V224,16.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V22,False,
+2,24012025,426,1,4,3,270680,5,X954,26.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,23012025,427,1,4,2,270630,1,X954,27.0,Masculino,Parda,Negra,1 a 3 anos,Hospital,X95,True,Arma de fogo
+2,10032025,427,1,4,4,270430,4,X954,27.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,22032025,424,1,4,3,270430,1,X954,24.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,23032025,422,1,4,3,270850,4,X954,22.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,21032025,422,1,4,3,270430,4,X954,22.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,21032025,418,1,4,3,270770,4,Y004,18.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y00,True,Outros
+2,21032025,427,1,4,3,270430,4,X954,27.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,10052025,418,1,4,,270430,1,C829,18.0,Masculino,Parda,Negra,,Hospital,C82,False,
+2,02032025,421,1,4,4,270915,5,X954,21.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,09032025,416,1,4,3,270240,5,W698,16.0,Masculino,Parda,Negra,4 a 7 anos,Outros,W69,False,
+2,15062025,427,1,4,4,270850,1,X954,27.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,X95,True,Arma de fogo
+2,25032025,418,1,4,4,270240,5,W698,18.0,Masculino,Parda,Negra,8 a 11 anos,Outros,W69,False,
+2,08062025,418,1,4,4,270570,4,V234,18.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V23,False,
+2,07062025,426,1,4,1,270410,5,X954,26.0,Masculino,Parda,Negra,Nenhuma,Outros,X95,True,Arma de fogo
+2,20042025,425,1,4,3,270520,5,X957,25.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,26042025,428,1,4,5,270430,1,Y349,28.0,Masculino,Parda,Negra,12 anos ou mais,Hospital,Y34,False,
+2,11042025,421,1,4,3,270430,1,X954,21.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,12042025,425,1,4,4,270650,4,V239,25.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V23,False,
+2,12042025,429,1,4,4,270430,4,X954,29.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,31052025,416,1,4,3,270140,2,J159,16.0,Masculino,Parda,Negra,4 a 7 anos,Outro estabelecimento de saúde,J15,False,
+2,28012025,423,1,4,3,270030,3,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,07062025,421,1,4,9,270430,4,X954,21.0,Masculino,Parda,Negra,,Via pública,X95,True,Arma de fogo
+2,20062025,425,1,1,5,270890,1,B201,25.0,Masculino,Branca,Branca,12 anos ou mais,Hospital,B20,False,
+2,01052025,420,1,4,3,270430,4,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,04012025,426,1,4,3,270630,5,X954,26.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,02012025,421,1,4,2,270580,5,X954,21.0,Masculino,Parda,Negra,1 a 3 anos,Outros,X95,True,Arma de fogo
+2,02012025,423,1,4,2,270180,3,X709,23.0,Masculino,Parda,Negra,1 a 3 anos,Domicílio,X70,False,
+2,15012025,424,1,4,4,270140,3,X709,24.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,X70,False,
+2,21042025,427,1,2,4,270140,1,I132,27.0,Masculino,Preta,Negra,8 a 11 anos,Hospital,I13,False,
+2,22032025,422,1,4,4,270140,4,X954,22.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,23032025,427,1,4,3,270250,5,V234,27.0,Masculino,Parda,Negra,4 a 7 anos,Outros,V23,False,
+2,23032025,423,1,4,4,270320,5,X709,23.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X70,False,
+2,23032025,424,1,4,3,270255,5,V224,24.0,Masculino,Parda,Negra,4 a 7 anos,Outros,V22,False,
+2,26042025,427,1,4,2,270430,4,X954,27.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,X95,True,Arma de fogo
+2,07022025,417,1,2,3,270450,4,X958,17.0,Masculino,Preta,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,28012025,421,1,4,3,270030,3,X950,21.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,25012025,425,1,4,9,270420,1,V289,25.0,Masculino,Parda,Negra,,Hospital,V28,False,
+2,25012025,418,1,4,3,270250,4,X954,18.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,18032025,425,1,4,3,270050,1,G238,25.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,G23,False,
+2,17032025,428,1,4,3,270860,4,V685,28.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V68,False,
+2,02032025,417,1,4,,270430,4,X954,17.0,Masculino,Parda,Negra,,Via pública,X95,True,Arma de fogo
+2,02032025,422,1,4,,270430,4,X954,22.0,Masculino,Parda,Negra,,Via pública,X95,True,Arma de fogo
+2,04052025,429,1,4,,270840,1,C910,29.0,Masculino,Parda,Negra,,Hospital,C91,False,
+2,27012025,418,1,4,3,270060,1,X959,18.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,28022025,428,1,1,3,270430,3,K703,28.0,Masculino,Branca,Branca,4 a 7 anos,Domicílio,K70,False,
+2,09012025,424,1,4,5,270770,1,X954,24.0,Masculino,Parda,Negra,12 anos ou mais,Hospital,X95,True,Arma de fogo
+2,10012025,424,1,4,3,270550,4,X959,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,11012025,427,1,4,2,270510,5,X959,27.0,Masculino,Parda,Negra,1 a 3 anos,Outros,X95,True,Arma de fogo
+2,12012025,427,1,4,2,270510,3,X959,27.0,Masculino,Parda,Negra,1 a 3 anos,Domicílio,X95,True,Arma de fogo
+2,07012025,429,1,4,2,270430,4,I219,29.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,I21,False,
+2,08012025,417,1,4,4,270410,1,V234,17.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V23,False,
+2,09012025,415,1,4,2,270570,5,X954,15.0,Masculino,Parda,Negra,1 a 3 anos,Outros,X95,True,Arma de fogo
+2,10012025,423,1,4,3,270030,5,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,04042025,428,1,4,,270290,1,X954,28.0,Masculino,Parda,Negra,,Hospital,X95,True,Arma de fogo
+2,02042025,415,1,4,3,270180,5,V204,15.0,Masculino,Parda,Negra,4 a 7 anos,Outros,V20,False,
+2,21052025,416,1,4,,270430,1,Y299,16.0,Masculino,Parda,Negra,,Hospital,Y29,False,
+2,18052025,426,1,4,3,270030,5,Y299,26.0,Masculino,Parda,Negra,4 a 7 anos,Outros,Y29,False,
+2,19052025,422,1,4,,270290,1,V234,22.0,Masculino,Parda,Negra,,Hospital,V23,False,
+2,14052025,427,1,4,1,270670,1,J180,27.0,Masculino,Parda,Negra,Nenhuma,Hospital,J18,False,
+2,19052025,428,1,4,,270880,1,V284,28.0,Masculino,Parda,Negra,,Hospital,V28,False,
+2,11012025,420,1,1,,270430,4,V892,20.0,Masculino,Branca,Branca,,Via pública,V89,False,
+2,13012025,425,1,4,3,270430,1,Y354,25.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,Y35,False,
+2,05022025,417,1,4,4,270430,1,X954,17.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,X95,True,Arma de fogo
+2,03032025,422,1,4,3,270430,1,Y299,22.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,Y29,False,
+2,24022025,418,1,4,2,270730,5,X954,18.0,Masculino,Parda,Negra,1 a 3 anos,Outros,X95,True,Arma de fogo
+2,14012025,422,1,1,4,270860,5,X959,22.0,Masculino,Branca,Branca,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,16012025,423,1,4,1,270040,4,X954,23.0,Masculino,Parda,Negra,Nenhuma,Via pública,X95,True,Arma de fogo
+2,16012025,426,1,4,3,270770,9,X954,26.0,Masculino,Parda,Negra,4 a 7 anos,,X95,True,Arma de fogo
+2,23012025,426,1,1,5,270430,1,V234,26.0,Masculino,Branca,Branca,12 anos ou mais,Hospital,V23,False,
+2,15022025,421,1,4,3,270240,2,W134,21.0,Masculino,Parda,Negra,4 a 7 anos,Outro estabelecimento de saúde,W13,False,
+2,09022025,419,1,4,,270880,5,V289,19.0,Masculino,Parda,Negra,,Outros,V28,False,
+2,25022025,416,1,4,2,270730,1,C910,16.0,Masculino,Parda,Negra,1 a 3 anos,Hospital,C91,False,
+2,07032025,420,1,4,3,270760,3,I749,20.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,I74,False,
+2,03032025,424,1,4,3,270300,4,Y299,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y29,False,
+2,02032025,415,1,4,3,270430,1,Y299,15.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,Y29,False,
+2,11062025,427,1,4,,270430,1,Y109,27.0,Masculino,Parda,Negra,,Hospital,Y10,False,
+2,12012025,424,1,4,3,270030,5,W699,24.0,Masculino,Parda,Negra,4 a 7 anos,Outros,W69,False,
+2,01022025,419,1,4,3,270430,1,X950,19.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,02022025,421,1,4,4,270820,3,W849,21.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,W84,False,
+2,13062025,421,1,4,9,270470,4,Y350,21.0,Masculino,Parda,Negra,,Via pública,Y35,False,
+2,01032025,424,1,1,2,270430,1,K409,24.0,Masculino,Branca,Branca,1 a 3 anos,Hospital,K40,False,
+2,08062025,428,1,4,,270020,5,X999,28.0,Masculino,Parda,Negra,,Outros,X99,True,Objeto cortante
+2,22062025,422,1,4,4,270030,1,X954,22.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,X95,True,Arma de fogo
+2,22062025,418,1,4,4,270320,5,V209,18.0,Masculino,Parda,Negra,8 a 11 anos,Outros,V20,False,
+2,22062025,428,1,4,,270670,5,X999,28.0,Masculino,Parda,Negra,,Outros,X99,True,Objeto cortante
+2,06012025,429,1,4,9,270320,1,X099,29.0,Masculino,Parda,Negra,,Hospital,X09,False,
+2,23062025,421,1,4,9,270895,5,X954,21.0,Masculino,Parda,Negra,,Outros,X95,True,Arma de fogo
+2,20062025,419,1,4,3,270730,5,X950,19.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,18012025,423,1,4,3,270430,3,X959,23.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,19012025,418,1,4,3,270430,4,X954,18.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,16012025,420,1,4,4,270430,1,Y349,20.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,Y34,False,
+2,07032025,416,1,4,4,270430,2,I711,16.0,Masculino,Parda,Negra,8 a 11 anos,Outro estabelecimento de saúde,I71,False,
+2,03022025,420,1,4,1,270140,1,G809,20.0,Masculino,Parda,Negra,Nenhuma,Hospital,G80,False,
+2,22062025,421,1,4,2,270360,1,C383,21.0,Masculino,Parda,Negra,1 a 3 anos,Hospital,C38,False,
+2,22022025,418,1,4,2,270430,2,X954,18.0,Masculino,Parda,Negra,1 a 3 anos,Outro estabelecimento de saúde,X95,True,Arma de fogo
+2,22022025,421,1,4,2,270430,4,X994,21.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,X99,True,Objeto cortante
+2,17062025,422,1,4,3,270030,4,X954,22.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,23052025,422,1,4,4,270430,3,X951,22.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,X95,True,Arma de fogo
+2,29052025,425,1,4,4,270430,3,W790,25.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,W79,False,
+2,29052025,426,1,4,3,270770,4,Y299,26.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y29,False,
+2,24052025,428,1,1,3,270430,2,J189,28.0,Masculino,Branca,Branca,4 a 7 anos,Outro estabelecimento de saúde,J18,False,
+2,22052025,423,1,4,4,270430,5,X954,23.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,24052025,422,1,4,3,270430,4,X959,22.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,24052025,424,1,4,4,270230,5,V029,24.0,Masculino,Parda,Negra,8 a 11 anos,Outros,V02,False,
+2,30052025,429,1,4,3,270730,1,K859,29.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,K85,False,
+2,28052025,425,1,4,3,270300,5,V292,25.0,Masculino,Parda,Negra,4 a 7 anos,Outros,V29,False,
+2,04062025,418,1,4,3,270770,3,X950,18.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,21052025,428,1,4,5,270630,3,X700,28.0,Masculino,Parda,Negra,12 anos ou mais,Domicílio,X70,False,
+2,20062025,418,1,4,4,270860,1,V299,18.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V29,False,
+2,10012025,420,1,4,3,270730,4,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,07012025,423,1,4,2,270430,4,V294,23.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,V29,False,
+2,12022025,418,1,4,3,270040,5,X954,18.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,17032025,416,1,4,1,270590,2,E101,16.0,Masculino,Parda,Negra,Nenhuma,Outro estabelecimento de saúde,E10,False,
+2,05012025,426,1,4,2,270100,1,Y099,26.0,Masculino,Parda,Negra,1 a 3 anos,Hospital,Y09,True,Outros
+2,04012025,419,1,4,2,270430,4,X959,19.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,X95,True,Arma de fogo
+2,04012025,418,1,2,3,270430,4,X959,18.0,Masculino,Preta,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,03012025,424,1,4,1,270430,4,X954,24.0,Masculino,Parda,Negra,Nenhuma,Via pública,X95,True,Arma de fogo
+2,05042025,422,1,4,2,270030,4,R99,22.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,R99,False,
+2,25052025,429,1,4,3,270290,1,X954,29.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,14062025,427,1,4,9,270290,1,C419,27.0,Masculino,Parda,Negra,,Hospital,C41,False,
+2,15062025,423,1,4,3,270800,1,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,13062025,426,1,4,,270630,5,R99,26.0,Masculino,Parda,Negra,,Outros,R99,False,
+2,30062025,419,1,4,3,270770,3,X769,19.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X76,False,
+2,30062025,420,1,4,4,270690,4,X599,20.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X59,False,
+2,19062025,421,1,4,3,270030,5,X959,21.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,16022025,429,1,4,9,270800,4,I269,29.0,Masculino,Parda,Negra,,Via pública,I26,False,
+2,15022025,419,1,4,3,270710,5,X954,19.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,17022025,425,1,4,3,270030,5,X954,25.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,05012025,423,1,4,4,270770,4,X994,23.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X99,True,Objeto cortante
+2,04012025,416,1,4,4,270430,4,X994,16.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X99,True,Objeto cortante
+2,01062025,421,1,4,9,270870,5,R960,21.0,Masculino,Parda,Negra,,Outros,R96,False,
+2,11042025,428,1,4,3,270644,1,Y009,28.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,Y00,True,Outros
+2,11042025,428,1,4,4,270770,3,X954,28.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,X95,True,Arma de fogo
+2,06042025,428,1,4,3,270430,1,V892,28.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V89,False,
+2,16062025,420,1,4,4,270430,4,V093,20.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V09,False,
+2,16062025,427,1,4,5,270430,4,Y299,27.0,Masculino,Parda,Negra,12 anos ou mais,Via pública,Y29,False,
+2,03062025,427,1,4,2,270430,5,X954,27.0,Masculino,Parda,Negra,1 a 3 anos,Outros,X95,True,Arma de fogo
+2,24022025,426,1,4,3,270770,5,Y299,26.0,Masculino,Parda,Negra,4 a 7 anos,Outros,Y29,False,
+2,15022025,429,1,4,4,270430,4,X954,29.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,16022025,428,1,4,4,270430,2,X954,28.0,Masculino,Parda,Negra,8 a 11 anos,Outro estabelecimento de saúde,X95,True,Arma de fogo
+2,22022025,418,1,4,3,270800,4,V289,18.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V28,False,
+2,12012025,428,1,1,,270430,1,Y349,28.0,Masculino,Branca,Branca,,Hospital,Y34,False,
+2,08012025,422,1,4,4,270915,1,I099,22.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,I09,False,
+2,05052025,423,1,4,,270030,1,E878,23.0,Masculino,Parda,Negra,,Hospital,E87,False,
+2,04052025,423,1,4,9,270240,5,X999,23.0,Masculino,Parda,Negra,,Outros,X99,True,Objeto cortante
+2,29042025,427,1,4,2,270930,5,X999,27.0,Masculino,Parda,Negra,1 a 3 anos,Outros,X99,True,Objeto cortante
+2,03052025,426,1,4,2,270750,5,X954,26.0,Masculino,Parda,Negra,1 a 3 anos,Outros,X95,True,Arma de fogo
+2,03052025,429,1,4,3,270270,5,I422,29.0,Masculino,Parda,Negra,4 a 7 anos,Outros,I42,False,
+2,29062025,427,1,4,4,270470,4,Y299,27.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,Y29,False,
+2,01052025,429,1,4,4,270860,2,V224,29.0,Masculino,Parda,Negra,8 a 11 anos,Outro estabelecimento de saúde,V22,False,
+2,18052025,415,1,4,4,270640,4,V031,15.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V03,False,
+2,23032025,425,1,4,3,270830,4,V645,25.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V64,False,
+2,08042025,417,1,2,,270430,1,K658,17.0,Masculino,Preta,Negra,,Hospital,K65,False,
+2,18022025,424,1,4,1,270930,1,Q909,24.0,Masculino,Parda,Negra,Nenhuma,Hospital,Q90,False,
+2,06012025,419,1,4,4,270430,1,V289,19.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V28,False,
+2,16012025,426,1,4,9,270430,2,I422,26.0,Masculino,Parda,Negra,,Outro estabelecimento de saúde,I42,False,
+2,09012025,421,1,4,3,270860,4,X959,21.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,09012025,418,1,4,3,270770,3,X950,18.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,18022025,423,1,4,4,270880,1,C851,23.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,C85,False,
+2,22042025,428,1,4,4,270890,4,X914,28.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X91,True,Outros
+2,25042025,423,1,4,3,270860,4,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,25042025,421,1,4,2,270430,4,X954,21.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,X95,True,Arma de fogo
+2,23012025,425,1,4,3,270770,3,X950,25.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,29012025,425,1,4,3,270430,4,X994,25.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X99,True,Objeto cortante
+2,28012025,423,1,4,4,270430,1,V239,23.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V23,False,
+2,28012025,427,1,4,4,270430,4,X954,27.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,28012025,421,1,4,4,270210,1,V299,21.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V29,False,
+2,28012025,426,1,4,3,270620,3,I619,26.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,I61,False,
+2,17042025,425,1,4,3,270160,1,X954,25.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,17042025,420,1,4,4,270160,1,X954,20.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,X95,True,Arma de fogo
+2,17042025,424,1,4,2,270240,1,X954,24.0,Masculino,Parda,Negra,1 a 3 anos,Hospital,X95,True,Arma de fogo
+2,04032025,427,1,4,2,270500,3,C920,27.0,Masculino,Parda,Negra,1 a 3 anos,Domicílio,C92,False,
+2,08042025,423,1,4,2,270070,5,X954,23.0,Masculino,Parda,Negra,1 a 3 anos,Outros,X95,True,Arma de fogo
+2,07042025,419,1,4,3,270160,4,X954,19.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,18052025,424,1,4,3,270030,1,V274,24.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V27,False,
+2,12062025,422,1,4,4,270100,5,X954,22.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,10062025,424,1,4,4,270310,3,X709,24.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,X70,False,
+2,08032025,419,1,4,3,270240,3,X709,19.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X70,False,
+2,09032025,424,1,4,3,270010,1,V279,24.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V27,False,
+2,06032025,417,1,4,3,270030,3,X709,17.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X70,False,
+2,09032025,423,1,4,2,270255,5,X709,23.0,Masculino,Parda,Negra,1 a 3 anos,Outros,X70,False,
+2,09032025,429,1,4,3,270030,3,G409,29.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,G40,False,
+2,04032025,419,1,4,4,270870,1,D649,19.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,D64,False,
+2,09032025,421,1,4,3,270430,4,V475,21.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V47,False,
+2,23022025,423,1,4,2,270260,4,X954,23.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,X95,True,Arma de fogo
+2,24022025,421,1,4,3,270630,4,X999,21.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X99,True,Objeto cortante
+2,21022025,418,1,4,9,270400,4,X999,18.0,Masculino,Parda,Negra,,Via pública,X99,True,Objeto cortante
+2,13012025,427,1,4,3,270410,2,I269,27.0,Masculino,Parda,Negra,4 a 7 anos,Outro estabelecimento de saúde,I26,False,
+2,05052025,428,1,4,4,270430,4,X954,28.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,03012025,426,1,4,3,270430,4,X990,26.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X99,True,Objeto cortante
+2,03012025,417,1,4,3,270135,5,X954,17.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,04012025,429,1,4,3,270870,5,X954,29.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,05012025,428,1,4,3,270770,3,X954,28.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,01012025,428,1,4,4,270940,4,V184,28.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V18,False,
+2,18022025,421,1,4,3,270410,5,W879,21.0,Masculino,Parda,Negra,4 a 7 anos,Outros,W87,False,
+2,21022025,425,1,4,3,270880,1,V224,25.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V22,False,
+2,07012025,419,1,4,3,270430,4,X954,19.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,03012025,422,1,4,4,270430,3,X990,22.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,X99,True,Objeto cortante
+2,02012025,423,1,4,,270430,4,X994,23.0,Masculino,Parda,Negra,,Via pública,X99,True,Objeto cortante
+2,22032025,429,1,4,3,270170,1,K830,29.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,K83,False,
+2,14012025,421,1,1,4,270430,1,C768,21.0,Masculino,Branca,Branca,8 a 11 anos,Hospital,C76,False,
+2,14042025,418,1,4,2,270430,4,R99,18.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,R99,False,
+2,07052025,416,1,4,1,270640,1,G919,16.0,Masculino,Parda,Negra,Nenhuma,Hospital,G91,False,
+2,28012025,429,1,4,4,270860,1,B227,29.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,B22,False,
+2,09042025,422,1,4,3,270430,3,X950,22.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,09042025,429,1,4,3,270050,5,X954,29.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,09032025,415,1,4,3,270860,4,X954,15.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,07052025,422,1,4,3,270860,3,X959,22.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,03032025,418,1,4,,270800,5,X954,18.0,Masculino,Parda,Negra,,Outros,X95,True,Arma de fogo
+2,04032025,426,1,4,4,270010,4,V234,26.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V23,False,
+2,06062025,429,1,4,3,270630,1,W782,29.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,W78,False,
+2,03042025,419,1,4,3,270430,1,M628,19.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,M62,False,
+2,12062025,416,1,4,1,270235,3,R99,16.0,Masculino,Parda,Negra,Nenhuma,Domicílio,R99,False,
+2,10042025,428,1,4,3,270430,4,Y009,28.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y00,True,Outros
+2,15032025,426,1,4,4,270030,4,V234,26.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V23,False,
+2,24012025,417,1,4,,270910,1,D696,17.0,Masculino,Parda,Negra,,Hospital,D69,False,
+2,27022025,427,1,4,4,270430,4,X954,27.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,28022025,427,1,4,3,270430,4,X954,27.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,28022025,422,1,4,4,270430,4,V299,22.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V29,False,
+2,26022025,419,1,4,,270100,1,X954,19.0,Masculino,Parda,Negra,,Hospital,X95,True,Arma de fogo
+2,15062025,426,1,4,3,270430,4,X954,26.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,15062025,425,1,4,3,270430,4,X954,25.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,11062025,429,1,4,4,270430,1,X959,29.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,X95,True,Arma de fogo
+2,11062025,423,1,4,3,270360,4,X959,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,19062025,429,1,4,3,270280,4,X959,29.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,11062025,423,1,4,4,270770,4,X959,23.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,14062025,423,1,4,3,270430,4,X959,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,18062025,426,1,1,3,270230,1,N189,26.0,Masculino,Branca,Branca,4 a 7 anos,Hospital,N18,False,
+2,26012025,420,1,4,3,270430,5,V489,20.0,Masculino,Parda,Negra,4 a 7 anos,Outros,V48,False,
+2,26012025,420,1,4,2,270770,3,X950,20.0,Masculino,Parda,Negra,1 a 3 anos,Domicílio,X95,True,Arma de fogo
+2,09042025,418,1,4,9,270750,5,X954,18.0,Masculino,Parda,Negra,,Outros,X95,True,Arma de fogo
+2,31032025,429,1,2,3,270900,2,I110,29.0,Masculino,Preta,Negra,4 a 7 anos,Outro estabelecimento de saúde,I11,False,
+2,07032025,423,1,4,4,270430,1,X954,23.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,X95,True,Arma de fogo
+2,03042025,424,1,4,3,270400,1,X999,24.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X99,True,Objeto cortante
+2,03042025,419,1,4,3,270250,4,X954,19.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,21032025,420,1,4,3,270260,5,X999,20.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X99,True,Objeto cortante
+2,03042025,424,1,4,4,270310,1,V289,24.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V28,False,
+2,08042025,421,1,4,2,270420,1,V234,21.0,Masculino,Parda,Negra,1 a 3 anos,Hospital,V23,False,
+2,05042025,419,1,4,3,270030,1,X954,19.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,08042025,424,1,4,1,270030,1,K590,24.0,Masculino,Parda,Negra,Nenhuma,Hospital,K59,False,
+2,22032025,423,1,4,4,270430,5,X954,23.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,04052025,427,1,4,1,270230,1,Y049,27.0,Masculino,Parda,Negra,Nenhuma,Hospital,Y04,True,Outros
+2,02052025,424,1,4,3,270510,4,X959,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,25022025,418,1,4,3,270030,3,X709,18.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X70,False,
+2,02032025,421,1,2,3,270030,5,X954,21.0,Masculino,Preta,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,08032025,425,1,4,4,270430,4,X954,25.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,14032025,422,1,2,4,270550,3,I499,22.0,Masculino,Preta,Negra,8 a 11 anos,Domicílio,I49,False,
+2,24052025,428,1,4,1,270100,2,I509,28.0,Masculino,Parda,Negra,Nenhuma,Outro estabelecimento de saúde,I50,False,
+2,16052025,416,1,4,1,270100,2,J189,16.0,Masculino,Parda,Negra,Nenhuma,Outro estabelecimento de saúde,J18,False,
+2,10042025,423,1,4,3,270210,1,V299,23.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V29,False,
+2,25012025,424,1,4,4,270410,5,X649,24.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X64,False,
+2,19042025,416,1,4,2,270920,5,X954,16.0,Masculino,Parda,Negra,1 a 3 anos,Outros,X95,True,Arma de fogo
+2,20042025,424,1,4,4,270915,5,X954,24.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,19042025,423,1,4,3,270920,5,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,17042025,424,1,4,1,270680,5,X954,24.0,Masculino,Parda,Negra,Nenhuma,Outros,X95,True,Arma de fogo
+2,31012025,419,1,1,,270310,1,G809,19.0,Masculino,Branca,Branca,,Hospital,G80,False,
+2,09032025,421,1,4,3,270860,4,X954,21.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,19012025,418,1,4,1,270930,4,X959,18.0,Masculino,Parda,Negra,Nenhuma,Via pública,X95,True,Arma de fogo
+2,12062025,418,1,4,3,270430,1,X959,18.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,22012025,422,1,4,4,270430,5,X954,22.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,22012025,422,1,4,3,270390,5,X954,22.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,22012025,426,1,4,3,270670,5,X954,26.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,22012025,425,1,4,4,270430,2,J189,25.0,Masculino,Parda,Negra,8 a 11 anos,Outro estabelecimento de saúde,J18,False,
+2,18012025,425,1,4,4,270040,3,X959,25.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,X95,True,Arma de fogo
+2,07012025,416,1,4,4,270470,4,Y299,16.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,Y29,False,
+2,29012025,419,1,4,4,270930,4,X954,19.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,29012025,425,1,4,3,270270,5,W879,25.0,Masculino,Parda,Negra,4 a 7 anos,Outros,W87,False,
+2,31012025,421,1,4,4,270040,4,X954,21.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,07032025,418,1,4,4,270430,2,I420,18.0,Masculino,Parda,Negra,8 a 11 anos,Outro estabelecimento de saúde,I42,False,
+2,07032025,416,1,4,3,270430,4,X954,16.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,25032025,419,1,4,4,270430,1,V299,19.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V29,False,
+2,25032025,423,1,4,3,270430,1,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,22032025,424,1,4,9,270135,1,K746,24.0,Masculino,Parda,Negra,,Hospital,K74,False,
+2,07032025,420,1,4,2,270550,4,X954,20.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,X95,True,Arma de fogo
+2,30042025,426,1,4,3,270240,5,F102,26.0,Masculino,Parda,Negra,4 a 7 anos,Outros,F10,False,
+2,03052025,416,1,4,3,270630,5,X954,16.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,30042025,423,1,4,4,270820,1,X954,23.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,X95,True,Arma de fogo
+2,08052025,418,1,4,3,270770,4,X959,18.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,26062025,426,1,4,4,270060,4,Y299,26.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,Y29,False,
+2,22062025,420,1,4,3,270770,4,Y009,20.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y00,True,Outros
+2,22062025,421,1,4,1,270470,3,A419,21.0,Masculino,Parda,Negra,Nenhuma,Domicílio,A41,False,
+2,29062025,421,1,4,4,270930,4,X959,21.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,29062025,421,1,4,3,270430,4,X959,21.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,29062025,424,1,4,3,270430,3,W849,24.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,W84,False,
+2,30062025,421,1,4,3,270450,4,V296,21.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V29,False,
+2,01062025,422,1,1,4,270840,1,N119,22.0,Masculino,Branca,Branca,8 a 11 anos,Hospital,N11,False,
+2,21042025,426,1,1,3,270030,1,F102,26.0,Masculino,Branca,Branca,4 a 7 anos,Hospital,F10,False,
+2,08042025,423,1,4,9,270030,4,X954,23.0,Masculino,Parda,Negra,,Via pública,X95,True,Arma de fogo
+2,05042025,419,1,4,4,270430,1,C419,19.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,C41,False,
+2,18032025,426,1,1,3,270500,3,G402,26.0,Masculino,Branca,Branca,4 a 7 anos,Domicílio,G40,False,
+2,14012025,418,1,1,9,270410,3,J159,18.0,Masculino,Branca,Branca,,Domicílio,J15,False,
+2,16032025,423,1,4,4,270350,4,Y009,23.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,Y00,True,Outros
+2,10022025,426,1,4,3,270230,5,X994,26.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X99,True,Objeto cortante
+2,08022025,425,1,4,4,270230,4,V299,25.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V29,False,
+2,09022025,425,1,4,4,270375,5,X994,25.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X99,True,Objeto cortante
+2,23022025,424,1,4,2,270850,4,X954,24.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,X95,True,Arma de fogo
+2,23022025,418,1,4,4,270860,4,X954,18.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,14032025,425,1,1,4,270430,4,Y009,25.0,Masculino,Branca,Branca,8 a 11 anos,Via pública,Y00,True,Outros
+2,22032025,427,1,4,5,270430,1,V299,27.0,Masculino,Parda,Negra,12 anos ou mais,Hospital,V29,False,
+2,08022025,416,1,4,4,270860,4,X954,16.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,07022025,421,1,4,2,270730,5,X954,21.0,Masculino,Parda,Negra,1 a 3 anos,Outros,X95,True,Arma de fogo
+2,21032025,427,1,4,4,270430,1,V299,27.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V29,False,
+2,24022025,419,1,4,3,270860,4,X954,19.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,14022025,421,1,1,3,270210,3,X950,21.0,Masculino,Branca,Branca,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,08052025,422,1,4,4,270800,1,V289,22.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V28,False,
+2,12052025,428,1,4,2,270880,4,V031,28.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,V03,False,
+2,09052025,418,1,4,3,270255,3,X709,18.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X70,False,
+2,10052025,421,1,4,4,270260,4,V284,21.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V28,False,
+2,12052025,418,1,4,3,270030,5,X954,18.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,06012025,428,1,4,2,270450,1,K859,28.0,Masculino,Parda,Negra,1 a 3 anos,Hospital,K85,False,
+2,18012025,417,1,4,3,270840,1,J159,17.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,J15,False,
+2,02062025,425,1,4,3,270120,3,I219,25.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,I21,False,
+2,18032025,415,1,4,9,270840,1,C717,15.0,Masculino,Parda,Negra,,Hospital,C71,False,
+2,11022025,423,1,4,3,270450,1,V239,23.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V23,False,
+2,12022025,423,1,4,2,270040,3,X950,23.0,Masculino,Parda,Negra,1 a 3 anos,Domicílio,X95,True,Arma de fogo
+2,18052025,425,1,4,2,270430,4,X959,25.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,X95,True,Arma de fogo
+2,18052025,428,1,4,3,270430,4,Y299,28.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y29,False,
+2,05052025,425,1,4,3,270770,4,Y009,25.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y00,True,Outros
+2,06052025,421,1,4,4,270890,1,V249,21.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V24,False,
+2,11032025,421,1,4,4,270230,5,X954,21.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,16032025,429,1,4,3,270520,5,X994,29.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X99,True,Objeto cortante
+2,26052025,423,1,4,3,270630,1,X999,23.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X99,True,Objeto cortante
+2,25052025,424,1,4,4,270440,3,X709,24.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,X70,False,
+2,07032025,428,1,4,2,270560,3,W849,28.0,Masculino,Parda,Negra,1 a 3 anos,Domicílio,W84,False,
+2,18052025,426,1,4,4,270800,4,X954,26.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,18052025,425,1,4,3,270720,5,X954,25.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,19052025,428,1,4,,270630,4,X954,28.0,Masculino,Parda,Negra,,Via pública,X95,True,Arma de fogo
+2,18052025,428,1,4,3,270800,4,X999,28.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X99,True,Objeto cortante
+2,06032025,418,1,4,3,270430,4,V299,18.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V29,False,
+2,05032025,427,1,4,3,270430,3,X954,27.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,30012025,427,1,4,4,270770,4,X954,27.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,23032025,425,1,4,3,270135,3,I219,25.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,I21,False,
+2,14032025,425,1,4,5,270430,3,R99,25.0,Masculino,Parda,Negra,12 anos ou mais,Domicílio,R99,False,
+2,19032025,424,1,4,3,270430,4,X954,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,27062025,425,1,2,3,270430,1,I38,25.0,Masculino,Preta,Negra,4 a 7 anos,Hospital,I38,False,
+2,27062025,428,1,4,3,270860,1,X709,28.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X70,False,
+2,14032025,417,1,4,3,270550,4,X954,17.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,04062025,426,1,4,3,270800,3,X950,26.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,23052025,418,1,1,,270190,1,C419,18.0,Masculino,Branca,Branca,,Hospital,C41,False,
+2,26052025,420,1,4,4,270520,1,I330,20.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,I33,False,
+2,18032025,416,1,4,3,270890,4,X954,16.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,11032025,421,1,4,4,270770,4,X954,21.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,12052025,429,1,4,9,270040,1,X998,29.0,Masculino,Parda,Negra,,Hospital,X99,True,Objeto cortante
+2,10052025,417,1,4,3,270130,5,X959,17.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,06052025,418,1,4,3,270510,4,X954,18.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,26062025,424,1,4,3,270915,4,X954,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,26062025,420,1,4,3,270260,1,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,27042025,429,1,4,3,270915,4,X954,29.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,14012025,429,1,4,3,270430,1,X959,29.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,16022025,429,1,4,3,270770,4,X954,29.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,17022025,416,1,4,4,270770,4,V892,16.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V89,False,
+2,16022025,423,1,4,3,270770,1,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,26042025,417,1,4,3,270840,4,V234,17.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V23,False,
+2,24042025,428,1,4,,270030,5,X919,28.0,Masculino,Parda,Negra,,Outros,X91,True,Outros
+2,19062025,429,1,4,3,270750,4,X954,29.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,09042025,416,1,4,3,270430,4,X954,16.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,02062025,429,1,2,3,270915,2,F112,29.0,Masculino,Preta,Negra,4 a 7 anos,Outro estabelecimento de saúde,F11,False,
+2,11052025,426,1,4,3,270430,1,I501,26.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,I50,False,
+2,13052025,417,1,4,4,270430,4,X994,17.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X99,True,Objeto cortante
+2,09022025,415,1,4,3,270770,4,X954,15.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,11012025,422,1,4,1,270770,1,G710,22.0,Masculino,Parda,Negra,Nenhuma,Hospital,G71,False,
+2,03022025,420,1,2,4,270800,1,N189,20.0,Masculino,Preta,Negra,8 a 11 anos,Hospital,N18,False,
+2,31032025,418,1,1,5,270130,1,R092,18.0,Masculino,Branca,Branca,12 anos ou mais,Hospital,R09,False,
+2,24022025,425,1,4,5,270360,5,Y299,25.0,Masculino,Parda,Negra,12 anos ou mais,Outros,Y29,False,
+2,21022025,421,1,4,3,270230,4,X954,21.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,19012025,424,1,4,2,270560,3,X950,24.0,Masculino,Parda,Negra,1 a 3 anos,Domicílio,X95,True,Arma de fogo
+2,30032025,423,1,4,3,270240,1,A153,23.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,A15,False,
+2,01042025,428,1,4,9,270230,1,B227,28.0,Masculino,Parda,Negra,,Hospital,B22,False,
+2,15012025,417,1,1,4,270230,5,X959,17.0,Masculino,Branca,Branca,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,24042025,429,1,4,3,270910,1,V289,29.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V28,False,
+2,02022025,415,1,4,3,270400,4,X999,15.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X99,True,Objeto cortante
+2,30012025,424,1,4,4,270030,5,V249,24.0,Masculino,Parda,Negra,8 a 11 anos,Outros,V24,False,
+2,19032025,428,1,4,3,270160,1,V274,28.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V27,False,
+2,14032025,418,1,4,3,270640,5,V204,18.0,Masculino,Parda,Negra,4 a 7 anos,Outros,V20,False,
+2,03022025,415,1,4,3,270510,1,Q213,15.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,Q21,False,
+2,01022025,424,1,4,4,270430,3,X700,24.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,X70,False,
+2,21022025,426,1,4,3,270430,4,X954,26.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,02032025,425,1,4,3,270620,4,V289,25.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V28,False,
+2,16022025,427,1,4,2,270140,5,Y009,27.0,Masculino,Parda,Negra,1 a 3 anos,Outros,Y00,True,Outros
+2,02052025,421,1,4,3,270430,5,X959,21.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,16022025,426,1,4,3,270430,4,X954,26.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,26012025,426,1,2,4,270060,4,Y009,26.0,Masculino,Preta,Negra,8 a 11 anos,Via pública,Y00,True,Outros
+2,31012025,416,1,4,4,270770,4,W699,16.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,W69,False,
+2,30062025,426,1,4,9,270270,5,V289,26.0,Masculino,Parda,Negra,,Outros,V28,False,
+2,24022025,420,1,4,3,270860,4,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,09022025,421,1,4,,270430,1,X954,21.0,Masculino,Parda,Negra,,Hospital,X95,True,Arma de fogo
+2,24022025,416,1,4,1,270770,4,X954,16.0,Masculino,Parda,Negra,Nenhuma,Via pública,X95,True,Arma de fogo
+2,08022025,428,1,4,1,270430,4,Y009,28.0,Masculino,Parda,Negra,Nenhuma,Via pública,Y00,True,Outros
+2,20022025,425,1,4,2,270850,3,X950,25.0,Masculino,Parda,Negra,1 a 3 anos,Domicílio,X95,True,Arma de fogo
+2,18022025,420,1,4,3,270690,3,J459,20.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,J45,False,
+2,25022025,419,1,4,2,270430,4,X954,19.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,X95,True,Arma de fogo
+2,14052025,424,1,4,1,270320,1,J690,24.0,Masculino,Parda,Negra,Nenhuma,Hospital,J69,False,
+2,29052025,416,1,4,,270690,1,C910,16.0,Masculino,Parda,Negra,,Hospital,C91,False,
+2,12022025,420,1,4,3,270430,3,W870,20.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,W87,False,
+2,13022025,415,1,4,4,270430,2,I219,15.0,Masculino,Parda,Negra,8 a 11 anos,Outro estabelecimento de saúde,I21,False,
+2,13022025,427,1,4,4,270430,4,X954,27.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,22022025,420,1,4,3,270430,1,Y009,20.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,Y00,True,Outros
+2,27022025,422,1,4,4,270470,1,Y009,22.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,Y00,True,Outros
+2,28022025,415,1,4,3,270040,4,Y009,15.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y00,True,Outros
+2,21022025,420,1,4,4,270430,4,V249,20.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V24,False,
+2,01032025,418,1,4,3,270730,4,Y009,18.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y00,True,Outros
+2,25022025,426,1,4,3,270430,1,J159,26.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,J15,False,
+2,11022025,423,1,4,,270430,4,V299,23.0,Masculino,Parda,Negra,,Via pública,V29,False,
+2,08022025,427,1,4,4,270430,1,V299,27.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V29,False,
+2,07022025,424,1,4,4,270430,4,X954,24.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,26042025,426,1,4,3,270870,3,X950,26.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,26042025,427,1,4,3,270470,3,J398,27.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,J39,False,
+2,16042025,423,1,4,5,270090,2,K510,23.0,Masculino,Parda,Negra,12 anos ou mais,Outro estabelecimento de saúde,K51,False,
+2,14022025,427,1,4,1,270430,4,X954,27.0,Masculino,Parda,Negra,Nenhuma,Via pública,X95,True,Arma de fogo
+2,03062025,420,1,4,3,270430,3,X950,20.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,22062025,415,1,4,3,270430,4,X954,15.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,02042025,425,1,4,2,270450,5,X954,25.0,Masculino,Parda,Negra,1 a 3 anos,Outros,X95,True,Arma de fogo
+2,02042025,420,1,4,3,270450,4,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,26052025,429,1,4,3,270410,5,X954,29.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,03042025,420,1,4,3,270470,1,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,27052025,428,1,4,2,270020,3,I269,28.0,Masculino,Parda,Negra,1 a 3 anos,Domicílio,I26,False,
+2,10052025,418,1,4,3,270430,1,Y299,18.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,Y29,False,
+2,30062025,422,1,4,,270800,1,A183,22.0,Masculino,Parda,Negra,,Hospital,A18,False,
+2,08052025,419,1,4,4,270430,4,X599,19.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X59,False,
+2,16052025,423,1,4,3,270040,5,X959,23.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,26042025,429,1,1,2,270135,1,C20,29.0,Masculino,Branca,Branca,1 a 3 anos,Hospital,C20,False,
+2,06012025,416,1,4,1,270770,4,X954,16.0,Masculino,Parda,Negra,Nenhuma,Via pública,X95,True,Arma de fogo
+2,29012025,423,1,4,3,270450,5,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,21012025,427,1,4,4,270890,4,X994,27.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X99,True,Objeto cortante
+2,19012025,417,1,4,4,270770,5,X954,17.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,24022025,425,1,4,3,270800,3,K700,25.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,K70,False,
+2,25022025,422,1,4,4,270430,3,E669,22.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,E66,False,
+2,20012025,424,1,4,3,270510,5,X959,24.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,08042025,423,1,4,4,270430,4,X954,23.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,01042025,424,1,4,3,270430,4,X954,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,18052025,421,1,4,5,270640,4,R99,21.0,Masculino,Parda,Negra,12 anos ou mais,Via pública,R99,False,
+2,15052025,420,1,4,5,270130,1,V279,20.0,Masculino,Parda,Negra,12 anos ou mais,Hospital,V27,False,
+2,15052025,421,1,4,3,270550,1,Y299,21.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,Y29,False,
+2,12052025,423,1,4,3,270470,3,X700,23.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X70,False,
+2,12062025,426,1,4,4,270430,1,K650,26.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,K65,False,
+2,12062025,424,1,4,4,270430,1,J189,24.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,J18,False,
+2,22042025,426,1,4,2,270430,4,X954,26.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,X95,True,Arma de fogo
+2,30032025,419,1,4,4,270420,1,C419,19.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,C41,False,
+2,31032025,423,1,4,4,270860,1,C480,23.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,C48,False,
+2,23012025,426,1,4,4,270430,5,V274,26.0,Masculino,Parda,Negra,8 a 11 anos,Outros,V27,False,
+2,24012025,424,1,4,5,270770,5,X954,24.0,Masculino,Parda,Negra,12 anos ou mais,Outros,X95,True,Arma de fogo
+2,10052025,429,1,4,1,270840,1,V289,29.0,Masculino,Parda,Negra,Nenhuma,Hospital,V28,False,
+2,24012025,427,1,4,4,270430,3,R99,27.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,R99,False,
+2,24012025,428,1,4,3,270550,5,X954,28.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,07042025,423,1,4,3,270300,1,V299,23.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V29,False,
+2,01052025,415,1,1,1,270020,3,Q02,15.0,Masculino,Branca,Branca,Nenhuma,Domicílio,Q02,False,
+2,07012025,425,1,4,2,270770,2,X959,25.0,Masculino,Parda,Negra,1 a 3 anos,Outro estabelecimento de saúde,X95,True,Arma de fogo
+2,08022025,423,1,4,4,270170,4,X954,23.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,28012025,420,1,4,3,270220,1,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,26022025,417,1,4,3,270230,5,X954,17.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,01032025,422,1,4,3,270430,1,X954,22.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,06032025,423,1,4,4,270510,5,X954,23.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,30032025,428,1,4,4,270420,4,X954,28.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,31032025,424,1,4,4,270160,4,X954,24.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,31032025,417,1,4,3,270895,5,X709,17.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X70,False,
+2,21032025,424,1,4,4,270140,3,W879,24.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,W87,False,
+2,10052025,420,1,4,4,270270,2,J46,20.0,Masculino,Parda,Negra,8 a 11 anos,Outro estabelecimento de saúde,J46,False,
+2,09052025,416,1,1,4,270730,1,H669,16.0,Masculino,Branca,Branca,8 a 11 anos,Hospital,H66,False,
+2,21052025,428,1,4,4,270375,1,X954,28.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,X95,True,Arma de fogo
+2,17052025,420,1,4,4,270290,5,V224,20.0,Masculino,Parda,Negra,8 a 11 anos,Outros,V22,False,
+2,17062025,425,1,4,9,270030,1,I019,25.0,Masculino,Parda,Negra,,Hospital,I01,False,
+2,12012025,424,1,4,3,270140,3,X954,24.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,01012025,424,1,4,4,270895,5,V289,24.0,Masculino,Parda,Negra,8 a 11 anos,Outros,V28,False,
+2,29032025,422,1,4,3,270290,5,X954,22.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,30032025,418,1,4,3,270840,5,W698,18.0,Masculino,Parda,Negra,4 a 7 anos,Outros,W69,False,
+2,31032025,420,1,4,3,270880,4,V289,20.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V28,False,
+2,13042025,429,1,4,4,270430,1,B210,29.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,B21,False,
+2,01032025,426,1,4,5,270790,5,X498,26.0,Masculino,Parda,Negra,12 anos ou mais,Outros,X49,False,
+2,24032025,426,1,4,4,270430,4,X954,26.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,10032025,426,1,4,4,270550,5,X954,26.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,09022025,425,1,1,4,270430,1,B207,25.0,Masculino,Branca,Branca,8 a 11 anos,Hospital,B20,False,
+2,08022025,429,1,4,4,270430,3,G409,29.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,G40,False,
+2,09012025,421,1,4,1,270140,2,B342,21.0,Masculino,Parda,Negra,Nenhuma,Outro estabelecimento de saúde,B34,False,
+2,27032025,429,1,4,5,270430,1,X954,29.0,Masculino,Parda,Negra,12 anos ou mais,Hospital,X95,True,Arma de fogo
+2,27032025,415,1,4,3,270780,5,X954,15.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,27032025,417,1,4,3,270450,4,X954,17.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,22052025,427,1,2,3,270140,1,K703,27.0,Masculino,Preta,Negra,4 a 7 anos,Hospital,K70,False,
+2,22042025,426,1,4,4,270430,1,Y880,26.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,Y88,False,
+2,24042025,425,1,4,4,270430,1,B227,25.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,B22,False,
+2,29032025,427,1,4,3,270930,5,X994,27.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X99,True,Objeto cortante
+2,04062025,429,1,4,,270860,4,X954,29.0,Masculino,Parda,Negra,,Via pública,X95,True,Arma de fogo
+2,04062025,423,1,4,3,270480,4,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,03032025,418,1,4,3,270430,4,V892,18.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V89,False,
+2,24032025,427,1,4,3,270430,1,X954,27.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,22032025,420,1,4,3,270430,5,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,24032025,429,1,4,3,270430,4,X954,29.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,24032025,418,1,4,3,270040,5,X954,18.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,25032025,420,1,4,3,270860,4,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,27032025,428,1,4,4,270430,4,V274,28.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V27,False,
+2,10032025,421,1,4,4,270470,5,Y009,21.0,Masculino,Parda,Negra,8 a 11 anos,Outros,Y00,True,Outros
+2,03032025,418,1,4,3,270470,1,X099,18.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X09,False,
+2,26032025,418,1,4,3,270470,4,X954,18.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,29032025,421,1,4,4,270430,4,X954,21.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,29032025,423,1,4,4,270560,4,X954,23.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,03012025,429,1,4,,270680,5,X999,29.0,Masculino,Parda,Negra,,Outros,X99,True,Objeto cortante
+2,19052025,421,1,4,4,270570,1,R99,21.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,R99,False,
+2,11032025,426,1,4,3,270430,2,X954,26.0,Masculino,Parda,Negra,4 a 7 anos,Outro estabelecimento de saúde,X95,True,Arma de fogo
+2,04032025,424,1,4,3,270770,3,X990,24.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X99,True,Objeto cortante
+2,22052025,425,1,4,2,270310,5,V234,25.0,Masculino,Parda,Negra,1 a 3 anos,Outros,V23,False,
+2,06052025,427,1,1,,270430,1,B210,27.0,Masculino,Branca,Branca,,Hospital,B21,False,
+2,17052025,428,1,4,3,270840,5,X099,28.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X09,False,
+2,05012025,426,1,4,4,270670,1,V234,26.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V23,False,
+2,31012025,424,1,4,3,270940,5,X954,24.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,02022025,422,1,4,2,270030,3,X954,22.0,Masculino,Parda,Negra,1 a 3 anos,Domicílio,X95,True,Arma de fogo
+2,02072025,425,1,4,3,270450,1,J159,25.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,J15,False,
+2,02082025,424,1,4,2,270880,5,V234,24.0,Masculino,Parda,Negra,1 a 3 anos,Outros,V23,False,
+2,16082025,427,1,4,3,270610,4,V031,27.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V03,False,
+2,24092025,423,1,4,3,270030,4,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,01072025,428,1,4,3,270430,3,X950,28.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,01072025,426,1,1,1,270430,3,G809,26.0,Masculino,Branca,Branca,Nenhuma,Domicílio,G80,False,
+2,20072025,421,1,4,9,270820,1,C910,21.0,Masculino,Parda,Negra,,Hospital,C91,False,
+2,14072025,422,1,4,4,270430,3,C61,22.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,C61,False,
+2,02082025,417,1,4,4,270255,4,V435,17.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V43,False,
+2,01082025,420,1,4,3,270140,1,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,12072025,424,1,4,4,270920,3,F102,24.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,F10,False,
+2,22082025,417,1,1,4,270800,1,G809,17.0,Masculino,Branca,Branca,8 a 11 anos,Hospital,G80,False,
+2,13082025,424,1,1,3,270560,1,V299,24.0,Masculino,Branca,Branca,4 a 7 anos,Hospital,V29,False,
+2,12072025,420,1,4,2,270600,1,A419,20.0,Masculino,Parda,Negra,1 a 3 anos,Hospital,A41,False,
+2,15072025,420,1,4,,270030,5,X954,20.0,Masculino,Parda,Negra,,Outros,X95,True,Arma de fogo
+2,09072025,424,1,4,4,270690,5,X954,24.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,08072025,419,1,4,3,270500,5,X999,19.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X99,True,Objeto cortante
+2,14072025,423,1,4,3,270260,4,X994,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X99,True,Objeto cortante
+2,09072025,427,1,4,3,270430,5,X954,27.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,15072025,424,1,4,2,270430,3,X950,24.0,Masculino,Parda,Negra,1 a 3 anos,Domicílio,X95,True,Arma de fogo
+2,16072025,421,1,4,3,270430,3,X950,21.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,12072025,418,1,4,3,270430,4,X954,18.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,08102025,426,1,4,3,270430,1,X954,26.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,08102025,422,1,4,4,270430,1,X954,22.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,X95,True,Arma de fogo
+2,05102025,422,1,4,3,270430,5,X952,22.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,24072025,428,1,4,4,270630,1,J189,28.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,J18,False,
+2,09072025,419,1,4,4,270430,1,V892,19.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V89,False,
+2,09072025,421,1,4,4,270030,4,X954,21.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,09072025,425,1,4,4,270430,4,X959,25.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,09072025,417,1,4,3,270770,5,X959,17.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,09072025,423,1,4,3,270030,4,X959,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,01092025,419,1,1,3,270430,1,E141,19.0,Masculino,Branca,Branca,4 a 7 anos,Hospital,E14,False,
+2,28082025,427,1,4,3,270420,1,V289,27.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V28,False,
+2,23082025,425,1,4,4,270860,1,B200,25.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,B20,False,
+2,12072025,423,1,4,3,270430,4,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,12072025,426,1,4,4,270430,1,X649,26.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,X64,False,
+2,26122025,420,1,4,4,270430,2,X649,20.0,Masculino,Parda,Negra,8 a 11 anos,Outro estabelecimento de saúde,X64,False,
+2,26122025,417,1,4,4,270480,5,X959,17.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,25122025,418,1,4,3,270430,3,Y209,18.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,Y20,False,
+2,25122025,424,1,4,3,270430,4,X959,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,23122025,418,1,4,3,270870,5,X959,18.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,23092025,420,1,4,3,270430,4,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,09102025,423,1,4,3,270740,4,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,08102025,419,1,4,2,270040,5,X994,19.0,Masculino,Parda,Negra,1 a 3 anos,Outros,X99,True,Objeto cortante
+2,09102025,416,1,4,3,270430,5,X954,16.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,09102025,424,1,4,3,270430,4,X954,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,05102025,424,1,4,2,270510,4,V229,24.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,V22,False,
+2,11102025,427,1,4,3,270030,1,J980,27.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,J98,False,
+2,11082025,423,1,4,4,270730,1,B208,23.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,B20,False,
+2,01122025,422,1,4,2,270260,4,V234,22.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,V23,False,
+2,01122025,429,1,4,4,270820,4,X954,29.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,29112025,423,1,4,4,270235,3,X700,23.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,X70,False,
+2,13072025,424,1,4,4,270110,4,Y299,24.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,Y29,False,
+2,13072025,419,1,4,4,270430,1,Y009,19.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,Y00,True,Outros
+2,13072025,421,1,4,4,270430,1,X954,21.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,X95,True,Arma de fogo
+2,18072025,428,1,4,4,270430,5,X705,28.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X70,False,
+2,19072025,420,1,4,3,270860,5,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,19072025,429,1,4,4,270230,5,V279,29.0,Masculino,Parda,Negra,8 a 11 anos,Outros,V27,False,
+2,22072025,422,1,4,4,270430,4,X954,22.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,14122025,426,1,4,2,270470,4,X954,26.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,X95,True,Arma de fogo
+2,23122025,428,1,4,3,270230,5,V892,28.0,Masculino,Parda,Negra,4 a 7 anos,Outros,V89,False,
+2,22122025,422,1,4,4,270430,1,V229,22.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V22,False,
+2,22122025,427,1,4,,270430,3,X919,27.0,Masculino,Parda,Negra,,Domicílio,X91,True,Outros
+2,27072025,426,1,4,3,270430,1,Y299,26.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,Y29,False,
+2,27072025,416,1,4,3,270510,5,X950,16.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,05082025,427,1,4,3,270140,5,X954,27.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,03082025,416,1,4,3,270290,4,V149,16.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V14,False,
+2,31122025,428,1,4,3,270040,4,X954,28.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,31122025,424,1,4,1,270350,5,X959,24.0,Masculino,Parda,Negra,Nenhuma,Outros,X95,True,Arma de fogo
+2,29082025,420,1,4,3,270895,5,X999,20.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X99,True,Objeto cortante
+2,29082025,422,1,4,3,270310,5,X954,22.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,31082025,423,1,4,2,270030,3,X709,23.0,Masculino,Parda,Negra,1 a 3 anos,Domicílio,X70,False,
+2,30082025,423,1,4,4,270410,4,X954,23.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,30082025,424,1,4,3,270030,5,W879,24.0,Masculino,Parda,Negra,4 a 7 anos,Outros,W87,False,
+2,01092025,424,1,4,2,270010,4,V274,24.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,V27,False,
+2,20072025,429,1,4,4,270680,4,V204,29.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V20,False,
+2,23082025,424,1,4,,270920,1,W019,24.0,Masculino,Parda,Negra,,Hospital,W01,False,
+2,27082025,423,1,4,2,270090,5,V284,23.0,Masculino,Parda,Negra,1 a 3 anos,Outros,V28,False,
+2,22082025,422,1,4,2,270410,5,X954,22.0,Masculino,Parda,Negra,1 a 3 anos,Outros,X95,True,Arma de fogo
+2,14092025,424,1,4,3,270240,5,X954,24.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,14092025,419,1,4,4,270310,5,R99,19.0,Masculino,Parda,Negra,8 a 11 anos,Outros,R99,False,
+2,10072025,429,1,4,3,270290,4,X954,29.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,11072025,423,1,4,3,270910,5,I859,23.0,Masculino,Parda,Negra,4 a 7 anos,Outros,I85,False,
+2,09072025,422,1,4,,270570,5,X954,22.0,Masculino,Parda,Negra,,Outros,X95,True,Arma de fogo
+2,17092025,427,1,4,3,270090,5,W699,27.0,Masculino,Parda,Negra,4 a 7 anos,Outros,W69,False,
+2,30072025,417,1,4,4,270480,4,X954,17.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,30072025,419,1,4,3,270480,4,W699,19.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,W69,False,
+2,01092025,417,1,4,4,270375,3,I472,17.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,I47,False,
+2,23112025,429,1,4,4,270430,3,Y200,29.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,Y20,False,
+2,21072025,426,1,4,3,270930,4,X599,26.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X59,False,
+2,21072025,429,1,4,4,270430,4,X954,29.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,07102025,428,1,4,3,270430,1,B207,28.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,B20,False,
+2,27122025,429,1,4,5,270470,3,X709,29.0,Masculino,Parda,Negra,12 anos ou mais,Domicílio,X70,False,
+2,27122025,425,1,4,5,270930,4,R99,25.0,Masculino,Parda,Negra,12 anos ou mais,Via pública,R99,False,
+2,27072025,429,1,4,4,270030,5,X954,29.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,10102025,418,1,4,3,270310,1,C919,18.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,C91,False,
+2,06112025,420,1,4,4,270310,1,W109,20.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,W10,False,
+2,06112025,425,1,4,4,270800,5,X809,25.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X80,False,
+2,19092025,427,1,4,3,270430,4,X959,27.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,08092025,427,1,4,4,270510,3,X700,27.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,X70,False,
+2,03122025,424,1,4,1,270580,5,R99,24.0,Masculino,Parda,Negra,Nenhuma,Outros,R99,False,
+2,19122025,419,1,4,4,270910,3,X099,19.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,X09,False,
+2,08082025,422,1,4,4,270450,5,W879,22.0,Masculino,Parda,Negra,8 a 11 anos,Outros,W87,False,
+2,25092025,427,1,4,3,270030,1,X954,27.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,30092025,422,1,4,4,270710,4,V234,22.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V23,False,
+2,27092025,427,1,4,2,270920,5,W698,27.0,Masculino,Parda,Negra,1 a 3 anos,Outros,W69,False,
+2,29082025,429,1,4,4,270730,3,I10,29.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,I10,False,
+2,20082025,423,1,4,3,270050,1,C189,23.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,C18,False,
+2,04072025,425,1,1,1,270060,3,G809,25.0,Masculino,Branca,Branca,Nenhuma,Domicílio,G80,False,
+2,17072025,421,1,4,,270800,3,X954,21.0,Masculino,Parda,Negra,,Domicílio,X95,True,Arma de fogo
+2,17072025,427,1,4,,270030,1,A162,27.0,Masculino,Parda,Negra,,Hospital,A16,False,
+2,17072025,425,1,4,9,270030,1,J180,25.0,Masculino,Parda,Negra,,Hospital,J18,False,
+2,26082025,429,1,4,3,270030,3,F199,29.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,F19,False,
+2,26072025,426,1,4,3,270770,1,A162,26.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,A16,False,
+2,27072025,427,1,4,3,270430,2,I219,27.0,Masculino,Parda,Negra,4 a 7 anos,Outro estabelecimento de saúde,I21,False,
+2,30112025,421,1,4,3,270730,5,Y009,21.0,Masculino,Parda,Negra,4 a 7 anos,Outros,Y00,True,Outros
+2,25072025,429,1,4,3,270330,5,V031,29.0,Masculino,Parda,Negra,4 a 7 anos,Outros,V03,False,
+2,26072025,422,1,4,3,270915,5,X709,22.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X70,False,
+2,15092025,428,1,4,5,270430,4,Y349,28.0,Masculino,Parda,Negra,12 anos ou mais,Via pública,Y34,False,
+2,15092025,427,1,4,3,270450,4,X954,27.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,23112025,429,1,4,3,270430,4,V892,29.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V89,False,
+2,22112025,427,1,4,3,270040,4,V239,27.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V23,False,
+2,22112025,428,1,4,4,270430,4,X954,28.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,24112025,428,1,4,4,270520,4,X954,28.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,24112025,428,1,4,4,270430,1,X954,28.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,X95,True,Arma de fogo
+2,08102025,420,1,4,9,270590,1,W209,20.0,Masculino,Parda,Negra,,Hospital,W20,False,
+2,08072025,428,1,4,1,270430,4,X994,28.0,Masculino,Parda,Negra,Nenhuma,Via pública,X99,True,Objeto cortante
+2,07072025,423,1,4,4,270850,4,Y299,23.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,Y29,False,
+2,11072025,424,1,4,3,270430,1,X954,24.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,10072025,428,1,4,4,270430,4,Y009,28.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,Y00,True,Outros
+2,19072025,423,1,4,4,270940,1,J459,23.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,J45,False,
+2,02092025,418,1,4,4,270440,1,I671,18.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,I67,False,
+2,29082025,423,1,4,4,270430,1,B200,23.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,B20,False,
+2,10082025,423,1,4,4,270290,1,J129,23.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,J12,False,
+2,12112025,426,1,4,4,270400,1,E889,26.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,E88,False,
+2,16112025,428,1,4,3,270550,3,A46,28.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,A46,False,
+2,21092025,423,1,4,3,270430,4,X649,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X64,False,
+2,24072025,427,1,4,4,270430,4,V299,27.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V29,False,
+2,08122025,421,1,4,4,270880,5,R99,21.0,Masculino,Parda,Negra,8 a 11 anos,Outros,R99,False,
+2,20112025,424,1,4,3,270235,4,X954,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,27122025,424,1,4,5,270140,3,X700,24.0,Masculino,Parda,Negra,12 anos ou mais,Domicílio,X70,False,
+2,29122025,429,1,4,9,270800,1,X954,29.0,Masculino,Parda,Negra,,Hospital,X95,True,Arma de fogo
+2,04072025,425,1,4,1,270040,4,X954,25.0,Masculino,Parda,Negra,Nenhuma,Via pública,X95,True,Arma de fogo
+2,03082025,423,1,4,3,270550,3,R99,23.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,R99,False,
+2,16092025,426,1,4,3,270430,3,X950,26.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,16092025,422,1,4,3,270430,4,Y009,22.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y00,True,Outros
+2,09112025,420,1,1,5,270430,3,I422,20.0,Masculino,Branca,Branca,12 anos ou mais,Domicílio,I42,False,
+2,10092025,425,1,4,,270690,4,V892,25.0,Masculino,Parda,Negra,,Via pública,V89,False,
+2,15082025,428,1,4,3,270630,3,X954,28.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,09082025,416,1,1,1,270450,1,J690,16.0,Masculino,Branca,Branca,Nenhuma,Hospital,J69,False,
+2,17082025,424,1,4,4,270030,3,X709,24.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,X70,False,
+2,13092025,425,1,4,2,270260,1,X688,25.0,Masculino,Parda,Negra,1 a 3 anos,Hospital,X68,False,
+2,17092025,420,1,4,2,270670,4,Y009,20.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,Y00,True,Outros
+2,14092025,425,1,4,3,270310,5,X954,25.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,21072025,419,1,1,2,270430,2,I219,19.0,Masculino,Branca,Branca,1 a 3 anos,Outro estabelecimento de saúde,I21,False,
+2,18072025,423,1,4,3,270350,3,C259,23.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,C25,False,
+2,27112025,429,1,4,4,270630,5,X709,29.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X70,False,
+2,30112025,418,1,4,3,270500,1,V289,18.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V28,False,
+2,05122025,429,1,1,3,270560,1,J189,29.0,Masculino,Branca,Branca,4 a 7 anos,Hospital,J18,False,
+2,08122025,420,1,4,4,270430,4,X959,20.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,09122025,425,1,4,4,270430,5,W879,25.0,Masculino,Parda,Negra,8 a 11 anos,Outros,W87,False,
+2,09122025,421,1,4,4,270430,5,X719,21.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X71,False,
+2,09122025,425,1,4,3,270690,4,X954,25.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,15092025,423,1,4,3,270430,1,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,15092025,425,1,4,3,270770,1,Y349,25.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,Y34,False,
+2,07092025,429,1,4,3,270430,2,I219,29.0,Masculino,Parda,Negra,4 a 7 anos,Outro estabelecimento de saúde,I21,False,
+2,12082025,417,1,4,4,270770,1,V279,17.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V27,False,
+2,13082025,417,1,4,3,270430,1,X954,17.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,21092025,427,1,4,4,270570,5,X954,27.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,04092025,424,1,4,4,270240,4,V409,24.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V40,False,
+2,01092025,415,1,4,3,270030,5,W698,15.0,Masculino,Parda,Negra,4 a 7 anos,Outros,W69,False,
+2,23092025,426,1,4,3,270915,3,X954,26.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,23092025,422,1,4,3,270680,3,X954,22.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,03092025,420,1,4,,270320,1,C719,20.0,Masculino,Parda,Negra,,Hospital,C71,False,
+2,19112025,422,1,1,,270430,1,X954,22.0,Masculino,Branca,Branca,,Hospital,X95,True,Arma de fogo
+2,10122025,427,1,1,4,270895,1,C449,27.0,Masculino,Branca,Branca,8 a 11 anos,Hospital,C44,False,
+2,18072025,423,1,4,3,270430,1,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,29092025,425,1,4,4,270860,4,Y299,25.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,Y29,False,
+2,30092025,425,1,4,2,270430,3,X954,25.0,Masculino,Parda,Negra,1 a 3 anos,Domicílio,X95,True,Arma de fogo
+2,26122025,429,1,4,4,270400,1,V289,29.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V28,False,
+2,26122025,416,1,4,3,270630,4,X954,16.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,26122025,425,1,4,2,270430,5,X954,25.0,Masculino,Parda,Negra,1 a 3 anos,Outros,X95,True,Arma de fogo
+2,27122025,427,1,4,3,270840,4,V289,27.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V28,False,
+2,21122025,425,1,4,9,270800,5,X954,25.0,Masculino,Parda,Negra,,Outros,X95,True,Arma de fogo
+2,22122025,427,1,4,3,270010,5,V289,27.0,Masculino,Parda,Negra,4 a 7 anos,Outros,V28,False,
+2,22122025,416,1,4,3,270250,4,V039,16.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V03,False,
+2,08102025,419,1,4,4,270130,1,Y299,19.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,Y29,False,
+2,13102025,429,1,4,1,270160,3,N390,29.0,Masculino,Parda,Negra,Nenhuma,Domicílio,N39,False,
+2,02102025,422,1,4,3,270430,4,X954,22.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,03102025,428,1,4,3,270650,1,X954,28.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,26122025,422,1,4,3,270430,4,Y099,22.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y09,True,Outros
+2,26122025,423,1,4,3,270430,5,X959,23.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,26072025,422,1,1,4,270810,4,V235,22.0,Masculino,Branca,Branca,8 a 11 anos,Via pública,V23,False,
+2,01122025,424,1,4,5,270860,5,X959,24.0,Masculino,Parda,Negra,12 anos ou mais,Outros,X95,True,Arma de fogo
+2,11122025,419,1,4,3,270430,3,X919,19.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X91,True,Outros
+2,07122025,424,1,4,3,270050,4,V474,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V47,False,
+2,08122025,421,1,4,3,270930,4,X959,21.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,28092025,429,1,4,3,270440,4,V234,29.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V23,False,
+2,29112025,422,1,1,3,270400,5,X709,22.0,Masculino,Branca,Branca,4 a 7 anos,Outros,X70,False,
+2,28112025,416,1,4,4,270120,5,W698,16.0,Masculino,Parda,Negra,8 a 11 anos,Outros,W69,False,
+2,22102025,423,1,4,3,270430,4,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,01122025,429,1,4,3,270470,4,X959,29.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,01122025,422,1,4,3,270860,4,X959,22.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,02122025,417,1,4,4,270430,4,X959,17.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,24122025,426,1,4,4,270430,2,C383,26.0,Masculino,Parda,Negra,8 a 11 anos,Outro estabelecimento de saúde,C38,False,
+2,01082025,428,1,1,5,270860,1,C169,28.0,Masculino,Branca,Branca,12 anos ou mais,Hospital,C16,False,
+2,10072025,419,1,4,4,270430,4,V892,19.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V89,False,
+2,24072025,421,1,4,3,270430,1,X954,21.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,14082025,419,1,4,2,270850,1,G409,19.0,Masculino,Parda,Negra,1 a 3 anos,Hospital,G40,False,
+2,20072025,423,1,4,3,270644,4,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,05082025,427,1,4,3,270450,5,X954,27.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,26102025,424,1,4,9,270430,2,A161,24.0,Masculino,Parda,Negra,,Outro estabelecimento de saúde,A16,False,
+2,17092025,422,1,4,3,270930,3,X954,22.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,19092025,418,1,4,3,270430,1,Y099,18.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,Y09,True,Outros
+2,06092025,427,1,4,3,270430,4,X954,27.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,20092025,427,1,4,2,270430,1,Y349,27.0,Masculino,Parda,Negra,1 a 3 anos,Hospital,Y34,False,
+2,10112025,427,1,1,2,270550,1,N390,27.0,Masculino,Branca,Branca,1 a 3 anos,Hospital,N39,False,
+2,23102025,420,1,4,3,270430,3,X950,20.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,23102025,420,1,4,3,270430,3,X950,20.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,27112025,425,1,4,3,270430,4,Y004,25.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y00,True,Outros
+2,27112025,419,1,4,3,270770,3,X950,19.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,20072025,422,1,4,4,270260,4,V274,22.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V27,False,
+2,06092025,429,1,1,3,270050,1,G060,29.0,Masculino,Branca,Branca,4 a 7 anos,Hospital,G06,False,
+2,10092025,420,1,4,4,270730,1,D431,20.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,D43,False,
+2,25122025,421,1,4,3,270140,5,X999,21.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X99,True,Objeto cortante
+2,29072025,420,1,4,3,270510,4,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,30072025,417,1,4,4,270480,4,X954,17.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,04102025,426,1,4,4,270430,4,X954,26.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,19082025,420,1,4,3,270430,4,V239,20.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V23,False,
+2,06082025,421,1,4,3,270740,1,A169,21.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,A16,False,
+2,25102025,420,1,4,3,270030,1,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,23122025,424,1,4,3,270100,1,V892,24.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V89,False,
+2,30122025,422,1,4,3,270430,2,X959,22.0,Masculino,Parda,Negra,4 a 7 anos,Outro estabelecimento de saúde,X95,True,Arma de fogo
+2,30122025,421,1,4,4,270030,4,V892,21.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V89,False,
+2,28112025,418,1,4,3,270710,4,V031,18.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V03,False,
+2,29112025,418,1,4,3,270540,1,V274,18.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V27,False,
+2,09122025,421,1,4,,270420,1,R092,21.0,Masculino,Parda,Negra,,Hospital,R09,False,
+2,06122025,424,1,4,2,270320,3,X709,24.0,Masculino,Parda,Negra,1 a 3 anos,Domicílio,X70,False,
+2,29102025,429,1,4,5,270240,3,R99,29.0,Masculino,Parda,Negra,12 anos ou mais,Domicílio,R99,False,
+2,02112025,423,1,4,3,270235,1,R99,23.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,R99,False,
+2,30102025,426,1,4,2,270430,5,X709,26.0,Masculino,Parda,Negra,1 a 3 anos,Outros,X70,False,
+2,06112025,423,1,4,4,270930,1,I422,23.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,I42,False,
+2,05092025,425,1,4,5,270430,2,J039,25.0,Masculino,Parda,Negra,12 anos ou mais,Outro estabelecimento de saúde,J03,False,
+2,12082025,425,1,4,3,270430,3,X950,25.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,07092025,421,1,1,4,270250,1,C482,21.0,Masculino,Branca,Branca,8 a 11 anos,Hospital,C48,False,
+2,31122025,429,1,4,4,270430,1,C159,29.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,C15,False,
+2,12102025,424,1,4,3,270030,5,W019,24.0,Masculino,Parda,Negra,4 a 7 anos,Outros,W01,False,
+2,22072025,423,1,4,4,270300,5,X708,23.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X70,False,
+2,23072025,427,1,4,3,270550,5,Y009,27.0,Masculino,Parda,Negra,4 a 7 anos,Outros,Y00,True,Outros
+2,07072025,429,1,4,4,270480,5,X954,29.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,23072025,420,1,4,3,270430,1,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,23072025,417,1,4,2,270430,3,X950,17.0,Masculino,Parda,Negra,1 a 3 anos,Domicílio,X95,True,Arma de fogo
+2,10102025,425,1,4,3,270430,1,X954,25.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,04102025,427,1,4,4,270430,4,X954,27.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,05102025,425,1,4,4,270650,4,V229,25.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V22,False,
+2,31072025,426,1,4,3,270470,4,X954,26.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,08082025,420,1,4,3,270510,3,W849,20.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,W84,False,
+2,24102025,420,1,4,3,270430,4,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,02112025,428,1,4,4,270840,5,V289,28.0,Masculino,Parda,Negra,8 a 11 anos,Outros,V28,False,
+2,08092025,427,1,4,2,270430,3,X950,27.0,Masculino,Parda,Negra,1 a 3 anos,Domicílio,X95,True,Arma de fogo
+2,08092025,420,1,2,3,270550,4,W699,20.0,Masculino,Preta,Negra,4 a 7 anos,Via pública,W69,False,
+2,09092025,427,1,4,3,270430,3,X950,27.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,01102025,417,1,4,3,270430,1,X954,17.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,22092025,420,1,4,4,270450,3,W849,20.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,W84,False,
+2,19102025,417,1,4,3,270890,5,W699,17.0,Masculino,Parda,Negra,4 a 7 anos,Outros,W69,False,
+2,06122025,423,1,4,3,270470,4,Y299,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y29,False,
+2,01122025,428,1,4,4,270670,1,V892,28.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V89,False,
+2,03122025,417,1,4,3,270610,2,J159,17.0,Masculino,Parda,Negra,4 a 7 anos,Outro estabelecimento de saúde,J15,False,
+2,06102025,424,1,4,3,270570,4,X954,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,07112025,417,1,1,,270430,1,C499,17.0,Masculino,Branca,Branca,,Hospital,C49,False,
+2,25072025,424,1,4,3,270430,4,V892,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V89,False,
+2,21072025,426,1,4,2,270680,1,G410,26.0,Masculino,Parda,Negra,1 a 3 anos,Hospital,G41,False,
+2,07082025,425,1,4,3,270030,5,X954,25.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,07082025,415,1,4,4,270310,5,W698,15.0,Masculino,Parda,Negra,8 a 11 anos,Outros,W69,False,
+2,06082025,424,1,1,,270430,1,C419,24.0,Masculino,Branca,Branca,,Hospital,C41,False,
+2,19102025,428,1,1,1,270140,1,G809,28.0,Masculino,Branca,Branca,Nenhuma,Hospital,G80,False,
+2,30112025,427,1,4,3,270450,5,Y009,27.0,Masculino,Parda,Negra,4 a 7 anos,Outros,Y00,True,Outros
+2,30112025,420,1,4,3,270430,4,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,27102025,420,1,4,4,270030,4,V234,20.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V23,False,
+2,29102025,419,1,1,2,270380,1,C403,19.0,Masculino,Branca,Branca,1 a 3 anos,Hospital,C40,False,
+2,19112025,419,1,4,3,270770,4,X950,19.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,07082025,419,1,4,3,270430,4,X954,19.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,07082025,426,1,4,2,270430,5,X954,26.0,Masculino,Parda,Negra,1 a 3 anos,Outros,X95,True,Arma de fogo
+2,10082025,420,1,4,2,270470,4,X954,20.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,X95,True,Arma de fogo
+2,09082025,425,1,4,2,270430,4,X954,25.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,X95,True,Arma de fogo
+2,25112025,418,1,4,3,270770,1,X954,18.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,25112025,423,1,4,4,270644,4,X954,23.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,30082025,416,1,4,3,270770,4,X954,16.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,18112025,422,1,4,1,270680,3,R960,22.0,Masculino,Parda,Negra,Nenhuma,Domicílio,R96,False,
+2,15102025,417,1,1,2,270030,1,J189,17.0,Masculino,Branca,Branca,1 a 3 anos,Hospital,J18,False,
+2,24122025,426,1,4,3,270690,4,X959,26.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,23082025,423,1,4,3,270430,1,A418,23.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,A41,False,
+2,14102025,423,1,4,3,270470,1,K703,23.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,K70,False,
+2,17102025,425,1,4,4,270430,1,I64,25.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,I64,False,
+2,17102025,420,1,1,3,270430,1,X954,20.0,Masculino,Branca,Branca,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,17102025,428,1,4,3,270430,3,X954,28.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,06072025,425,1,4,3,270770,3,X950,25.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,06072025,427,1,4,3,270430,1,Y299,27.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,Y29,False,
+2,06072025,417,1,4,3,270130,4,X954,17.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,01112025,423,1,4,3,270430,2,R99,23.0,Masculino,Parda,Negra,4 a 7 anos,Outro estabelecimento de saúde,R99,False,
+2,07102025,418,1,4,3,270840,1,V234,18.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V23,False,
+2,20122025,423,1,4,4,270260,1,X992,23.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,X99,True,Objeto cortante
+2,17112025,417,1,1,,270040,1,C798,17.0,Masculino,Branca,Branca,,Hospital,C79,False,
+2,10082025,423,1,4,3,270450,5,W699,23.0,Masculino,Parda,Negra,4 a 7 anos,Outros,W69,False,
+2,08112025,422,1,4,4,270840,3,Y200,22.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,Y20,False,
+2,26072025,418,1,4,3,270940,4,V229,18.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V22,False,
+2,16112025,422,1,4,2,270430,4,X954,22.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,X95,True,Arma de fogo
+2,16072025,421,1,4,3,270030,1,V289,21.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V28,False,
+2,25122025,422,1,1,,270030,1,J459,22.0,Masculino,Branca,Branca,,Hospital,J45,False,
+2,15102025,417,1,4,1,270650,3,J459,17.0,Masculino,Parda,Negra,Nenhuma,Domicílio,J45,False,
+2,26082025,427,1,4,3,270430,4,X959,27.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,22082025,417,1,4,4,270930,4,X954,17.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,27082025,423,1,4,4,270770,5,Y354,23.0,Masculino,Parda,Negra,8 a 11 anos,Outros,Y35,False,
+2,15122025,425,1,1,2,270030,4,Y048,25.0,Masculino,Branca,Branca,1 a 3 anos,Via pública,Y04,True,Outros
+2,07092025,419,1,4,1,270720,3,G800,19.0,Masculino,Parda,Negra,Nenhuma,Domicílio,G80,False,
+2,14122025,425,1,4,4,270430,4,Y349,25.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,Y34,False,
+2,14122025,420,1,4,4,270650,3,X919,20.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,X91,True,Outros
+2,19122025,427,1,4,4,270790,4,X959,27.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,14122025,420,1,4,3,270430,3,Y295,20.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,Y29,False,
+2,16122025,425,1,4,4,270230,1,X599,25.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,X59,False,
+2,17122025,421,1,4,3,270040,3,X954,21.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,14082025,429,1,4,9,270030,1,G935,29.0,Masculino,Parda,Negra,,Hospital,G93,False,
+2,22072025,420,1,4,3,270430,1,X849,20.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X84,False,
+2,26072025,418,1,4,4,270430,1,X954,18.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,X95,True,Arma de fogo
+2,11072025,416,1,4,1,270230,1,G809,16.0,Masculino,Parda,Negra,Nenhuma,Hospital,G80,False,
+2,17092025,420,1,1,4,270430,3,C80,20.0,Masculino,Branca,Branca,8 a 11 anos,Domicílio,C80,False,
+2,08102025,427,1,4,3,270710,5,X954,27.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,09102025,420,1,4,9,270460,5,X954,20.0,Masculino,Parda,Negra,,Outros,X95,True,Arma de fogo
+2,09102025,424,1,4,2,270140,5,X709,24.0,Masculino,Parda,Negra,1 a 3 anos,Outros,X70,False,
+2,10102025,424,1,4,4,270430,5,X954,24.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,12102025,420,1,4,3,270270,4,X999,20.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X99,True,Objeto cortante
+2,13102025,422,1,4,4,270750,1,V284,22.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V28,False,
+2,03122025,416,1,4,4,270430,3,X749,16.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,X74,False,
+2,04092025,429,1,4,5,270430,1,Y354,29.0,Masculino,Parda,Negra,12 anos ou mais,Hospital,Y35,False,
+2,05092025,425,1,4,3,270430,5,X954,25.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,23092025,418,1,4,4,270470,5,X959,18.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,02112025,425,1,4,2,270430,2,Y349,25.0,Masculino,Parda,Negra,1 a 3 anos,Outro estabelecimento de saúde,Y34,False,
+2,08112025,416,1,4,3,270470,5,X954,16.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,03112025,426,1,4,3,270430,5,X954,26.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,03112025,424,1,4,3,270430,3,Y349,24.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,Y34,False,
+2,03112025,426,1,4,4,270230,5,W879,26.0,Masculino,Parda,Negra,8 a 11 anos,Outros,W87,False,
+2,08112025,420,1,4,3,270040,5,R99,20.0,Masculino,Parda,Negra,4 a 7 anos,Outros,R99,False,
+2,08112025,421,1,4,4,270550,5,V239,21.0,Masculino,Parda,Negra,8 a 11 anos,Outros,V23,False,
+2,08112025,424,1,4,4,270430,1,Y009,24.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,Y00,True,Outros
+2,08112025,419,1,4,3,270040,5,X954,19.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,07112025,425,1,4,4,270430,1,Y009,25.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,Y00,True,Outros
+2,10112025,425,1,4,4,270470,1,X954,25.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,X95,True,Arma de fogo
+2,06112025,427,1,4,2,270430,1,V892,27.0,Masculino,Parda,Negra,1 a 3 anos,Hospital,V89,False,
+2,13112025,428,1,4,3,270430,4,X954,28.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,15102025,428,1,4,4,270255,2,Y149,28.0,Masculino,Parda,Negra,8 a 11 anos,Outro estabelecimento de saúde,Y14,False,
+2,16112025,420,1,4,3,270430,4,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,16112025,415,1,4,3,270430,4,X954,15.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,16112025,427,1,4,5,270520,1,Y349,27.0,Masculino,Parda,Negra,12 anos ou mais,Hospital,Y34,False,
+2,13102025,424,1,4,3,270630,3,X950,24.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,13102025,421,1,4,4,270430,4,X954,21.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,13102025,427,1,4,3,270770,4,X950,27.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,13102025,418,1,4,4,270915,1,V299,18.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V29,False,
+2,24122025,427,1,4,3,270680,1,B207,27.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,B20,False,
+2,04112025,426,1,4,4,270430,1,I313,26.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,I31,False,
+2,04112025,422,1,4,3,270550,4,X954,22.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,18092025,428,1,4,3,270100,1,V299,28.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V29,False,
+2,05112025,422,1,4,4,270642,1,V234,22.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V23,False,
+2,30102025,421,1,2,2,270030,1,X954,21.0,Masculino,Preta,Negra,1 a 3 anos,Hospital,X95,True,Arma de fogo
+2,31082025,420,1,4,2,270470,1,V209,20.0,Masculino,Parda,Negra,1 a 3 anos,Hospital,V20,False,
+2,10092025,428,1,4,4,270270,1,Y349,28.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,Y34,False,
+2,10092025,418,1,4,4,270800,1,A418,18.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,A41,False,
+2,14092025,419,1,4,1,270540,1,G809,19.0,Masculino,Parda,Negra,Nenhuma,Hospital,G80,False,
+2,27102025,422,1,4,3,270430,4,Y299,22.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y29,False,
+2,27102025,427,1,4,4,270510,5,X999,27.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X99,True,Objeto cortante
+2,14122025,426,1,4,3,270860,4,Y299,26.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y29,False,
+2,15122025,424,1,4,3,270430,4,Y299,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y29,False,
+2,21122025,425,1,4,4,270430,3,I269,25.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,I26,False,
+2,16092025,424,1,4,4,270160,1,J960,24.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,J96,False,
+2,06072025,427,1,4,3,270030,3,X709,27.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X70,False,
+2,06072025,423,1,4,,270030,5,V284,23.0,Masculino,Parda,Negra,,Outros,V28,False,
+2,05072025,419,1,4,4,270030,5,X954,19.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X95,True,Arma de fogo
+2,29072025,419,1,4,4,270430,1,C494,19.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,C49,False,
+2,23112025,424,1,4,3,270430,4,X954,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,23112025,425,1,4,3,270740,5,X954,25.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,17082025,427,1,4,3,270770,4,X954,27.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,17082025,429,1,4,4,270430,4,X959,29.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,21082025,416,1,4,,270430,4,X954,16.0,Masculino,Parda,Negra,,Via pública,X95,True,Arma de fogo
+2,17082025,417,1,4,3,270930,2,W799,17.0,Masculino,Parda,Negra,4 a 7 anos,Outro estabelecimento de saúde,W79,False,
+2,17082025,421,1,4,3,270430,4,X954,21.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,13082025,425,1,4,5,270430,4,V892,25.0,Masculino,Parda,Negra,12 anos ou mais,Via pública,V89,False,
+2,17072025,416,1,4,9,270040,1,Q201,16.0,Masculino,Parda,Negra,,Hospital,Q20,False,
+2,18082025,425,1,4,3,270210,5,X959,25.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,19082025,417,1,4,3,270430,3,X709,17.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X70,False,
+2,02112025,416,1,4,4,270430,4,X954,16.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,02112025,420,1,4,3,270644,4,Y009,20.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y00,True,Outros
+2,02112025,424,1,4,4,270230,1,V249,24.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V24,False,
+2,17102025,417,1,4,3,270070,5,X954,17.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,17102025,426,1,4,3,270180,5,X954,26.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,10122025,427,1,4,4,270430,1,I802,27.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,I80,False,
+2,18122025,422,1,4,3,270430,4,X959,22.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,18122025,425,1,4,4,270430,1,V224,25.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V22,False,
+2,23102025,428,1,4,3,270170,1,N189,28.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,N18,False,
+2,23102025,421,1,4,4,270430,4,X954,21.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,25102025,425,1,4,4,270430,4,X954,25.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,25102025,428,1,4,3,270110,3,I219,28.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,I21,False,
+2,19102025,425,1,4,4,270430,3,W870,25.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,W87,False,
+2,19102025,425,1,4,3,270770,4,X954,25.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,19102025,424,1,4,3,270430,4,V299,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V29,False,
+2,25102025,422,1,4,3,270430,4,X954,22.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,25102025,428,1,4,3,270430,1,X954,28.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,26102025,415,1,4,3,270430,1,X954,15.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,26102025,420,1,4,3,270560,1,Y349,20.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,Y34,False,
+2,01102025,415,1,4,4,270710,1,Q209,15.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,Q20,False,
+2,16082025,425,1,4,2,270430,1,Y009,25.0,Masculino,Parda,Negra,1 a 3 anos,Hospital,Y00,True,Outros
+2,16082025,420,1,4,2,270470,5,Y009,20.0,Masculino,Parda,Negra,1 a 3 anos,Outros,Y00,True,Outros
+2,16082025,425,1,4,3,270430,4,X954,25.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,16082025,424,1,4,3,270430,4,X954,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,17082025,428,1,4,3,270430,4,Y009,28.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y00,True,Outros
+2,17082025,418,1,4,3,270430,3,X950,18.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,17082025,424,1,4,1,270040,5,X954,24.0,Masculino,Parda,Negra,Nenhuma,Outros,X95,True,Arma de fogo
+2,13082025,424,1,1,,270670,1,C710,24.0,Masculino,Branca,Branca,,Hospital,C71,False,
+2,10122025,423,1,4,3,270030,4,V284,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V28,False,
+2,07112025,422,1,4,3,270140,5,X954,22.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,07112025,417,1,4,,270030,1,V274,17.0,Masculino,Parda,Negra,,Hospital,V27,False,
+2,30092025,422,1,1,4,270160,1,R049,22.0,Masculino,Branca,Branca,8 a 11 anos,Hospital,R04,False,
+2,14082025,424,1,4,4,270860,4,X954,24.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,20082025,420,1,4,3,270650,4,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,06102025,416,1,1,3,270430,1,K358,16.0,Masculino,Branca,Branca,4 a 7 anos,Hospital,K35,False,
+2,24082025,427,1,4,,270930,4,X999,27.0,Masculino,Parda,Negra,,Via pública,X99,True,Objeto cortante
+2,18102025,423,1,4,3,270430,4,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,28112025,420,1,4,3,270470,1,Y350,20.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,Y35,False,
+2,28112025,427,1,4,3,270430,1,Y350,27.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,Y35,False,
+2,13102025,418,1,4,3,270770,4,X954,18.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,17102025,429,1,4,4,270860,4,V204,29.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V20,False,
+2,17102025,416,1,4,3,270690,4,X954,16.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,11122025,418,1,1,,270870,1,C910,18.0,Masculino,Branca,Branca,,Hospital,C91,False,
+2,25092025,428,1,4,3,270690,1,W189,28.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,W18,False,
+2,25092025,429,1,4,3,270430,2,X959,29.0,Masculino,Parda,Negra,4 a 7 anos,Outro estabelecimento de saúde,X95,True,Arma de fogo
+2,07112025,428,1,4,3,270430,5,X954,28.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,09092025,426,1,4,4,270740,5,R99,26.0,Masculino,Parda,Negra,8 a 11 anos,Outros,R99,False,
+2,01102025,424,1,4,4,270620,4,X954,24.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,01102025,428,1,4,3,270480,5,Y009,28.0,Masculino,Parda,Negra,4 a 7 anos,Outros,Y00,True,Outros
+2,01102025,426,1,4,4,270430,1,X954,26.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,X95,True,Arma de fogo
+2,01102025,418,1,4,3,270850,1,V239,18.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V23,False,
+2,23082025,424,1,4,3,270470,4,Y009,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y00,True,Outros
+2,18102025,418,1,4,3,270860,5,X954,18.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,28082025,428,1,4,3,270430,1,X954,28.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,29082025,415,1,4,3,270430,4,X954,15.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,12122025,422,1,4,9,270680,1,X999,22.0,Masculino,Parda,Negra,,Hospital,X99,True,Objeto cortante
+2,30082025,418,1,4,3,270850,4,Y009,18.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,Y00,True,Outros
+2,30082025,420,1,4,3,270930,3,X950,20.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,29082025,429,1,4,3,270890,1,X954,29.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,29082025,424,1,4,4,270430,1,X954,24.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,X95,True,Arma de fogo
+2,14122025,423,1,4,3,270750,5,V284,23.0,Masculino,Parda,Negra,4 a 7 anos,Outros,V28,False,
+2,17122025,421,1,4,4,270630,1,V289,21.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V28,False,
+2,28102025,419,1,4,4,270915,5,Y084,19.0,Masculino,Parda,Negra,8 a 11 anos,Outros,Y08,True,Outros
+2,29102025,423,1,1,4,270430,4,X954,23.0,Masculino,Branca,Branca,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,20112025,417,1,1,4,270880,1,C629,17.0,Masculino,Branca,Branca,8 a 11 anos,Hospital,C62,False,
+2,14112025,427,1,4,3,270310,5,X954,27.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,24112025,422,1,4,5,270290,1,V234,22.0,Masculino,Parda,Negra,12 anos ou mais,Hospital,V23,False,
+2,18112025,428,1,4,4,270800,5,W098,28.0,Masculino,Parda,Negra,8 a 11 anos,Outros,W09,False,
+2,16092025,420,1,4,4,270642,1,V289,20.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V28,False,
+2,17112025,428,1,4,4,270320,3,I219,28.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,I21,False,
+2,28092025,427,1,4,2,270430,4,X954,27.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,X95,True,Arma de fogo
+2,29092025,419,1,4,3,270430,4,X954,19.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,04072025,418,1,4,3,270730,5,Y009,18.0,Masculino,Parda,Negra,4 a 7 anos,Outros,Y00,True,Outros
+2,04072025,428,1,4,3,270740,4,X954,28.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,06072025,423,1,4,3,270430,4,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,06072025,421,1,4,4,270430,4,V093,21.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V09,False,
+2,05072025,427,1,4,4,270940,4,Y349,27.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,Y34,False,
+2,02072025,420,1,4,4,270430,4,R99,20.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,R99,False,
+2,21092025,421,1,4,3,270130,4,X954,21.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,22112025,419,1,4,4,270030,1,C910,19.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,C91,False,
+2,22112025,418,1,4,4,270440,1,V289,18.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V28,False,
+2,21112025,424,1,4,3,270030,4,X954,24.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,16102025,423,1,4,3,270450,4,V776,23.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,V77,False,
+2,12102025,420,1,4,4,270740,3,X950,20.0,Masculino,Parda,Negra,8 a 11 anos,Domicílio,X95,True,Arma de fogo
+2,12102025,423,1,4,4,270560,4,X954,23.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,20112025,425,1,1,4,270430,1,A153,25.0,Masculino,Branca,Branca,8 a 11 anos,Hospital,A15,False,
+2,22092025,423,1,4,3,270040,3,X950,23.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,X95,True,Arma de fogo
+2,22112025,422,1,4,1,270720,3,M623,22.0,Masculino,Parda,Negra,Nenhuma,Domicílio,M62,False,
+2,18102025,426,1,4,4,270220,5,X599,26.0,Masculino,Parda,Negra,8 a 11 anos,Outros,X59,False,
+2,25082025,416,1,4,3,270100,4,X959,16.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,25082025,416,1,4,3,270430,1,Y099,16.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,Y09,True,Outros
+2,25082025,423,1,4,4,270430,4,Y299,23.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,Y29,False,
+2,14122025,427,1,4,4,270460,5,R99,27.0,Masculino,Parda,Negra,8 a 11 anos,Outros,R99,False,
+2,31082025,427,1,4,3,270430,3,R99,27.0,Masculino,Parda,Negra,4 a 7 anos,Domicílio,R99,False,
+2,06072025,421,1,4,2,270770,1,B207,21.0,Masculino,Parda,Negra,1 a 3 anos,Hospital,B20,False,
+2,02072025,423,1,4,3,270140,5,X954,23.0,Masculino,Parda,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,09072025,428,1,1,5,270030,1,F104,28.0,Masculino,Branca,Branca,12 anos ou mais,Hospital,F10,False,
+2,02112025,426,1,4,4,270510,1,Y349,26.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,Y34,False,
+2,08112025,415,1,1,3,270430,1,G809,15.0,Masculino,Branca,Branca,4 a 7 anos,Hospital,G80,False,
+2,13112025,415,1,1,,270430,1,G009,15.0,Masculino,Branca,Branca,,Hospital,G00,False,
+2,15112025,422,1,4,3,270770,2,X954,22.0,Masculino,Parda,Negra,4 a 7 anos,Outro estabelecimento de saúde,X95,True,Arma de fogo
+2,28102025,417,1,4,3,270510,5,W699,17.0,Masculino,Parda,Negra,4 a 7 anos,Outros,W69,False,
+2,14112025,429,1,4,3,270870,5,V892,29.0,Masculino,Parda,Negra,4 a 7 anos,Outros,V89,False,
+2,15112025,427,1,4,3,270430,1,X849,27.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X84,False,
+2,15112025,420,1,4,3,270470,1,X954,20.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,X95,True,Arma de fogo
+2,13092025,417,1,4,3,270430,4,X959,17.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,04072025,427,1,4,4,270890,2,B227,27.0,Masculino,Parda,Negra,8 a 11 anos,Outro estabelecimento de saúde,B22,False,
+2,01072025,421,1,4,9,270160,5,X954,21.0,Masculino,Parda,Negra,,Outros,X95,True,Arma de fogo
+2,13122025,428,1,4,9,270915,4,X954,28.0,Masculino,Parda,Negra,,Via pública,X95,True,Arma de fogo
+2,26102025,425,1,4,3,270430,5,W698,25.0,Masculino,Parda,Negra,4 a 7 anos,Outros,W69,False,
+2,12112025,422,1,4,3,270430,1,V239,22.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,V23,False,
+2,13112025,427,1,4,3,270430,4,X954,27.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,13112025,425,1,4,3,270770,4,X814,25.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X81,False,
+2,14112025,419,1,4,,270410,5,X954,19.0,Masculino,Parda,Negra,,Outros,X95,True,Arma de fogo
+2,17112025,417,1,4,4,270630,5,R99,17.0,Masculino,Parda,Negra,8 a 11 anos,Outros,R99,False,
+2,15102025,425,1,4,4,270430,1,G419,25.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,G41,False,
+2,04072025,419,1,4,3,270430,4,X954,19.0,Masculino,Parda,Negra,4 a 7 anos,Via pública,X95,True,Arma de fogo
+2,05072025,420,1,4,2,270430,4,X954,20.0,Masculino,Parda,Negra,1 a 3 anos,Via pública,X95,True,Arma de fogo
+2,09082025,427,1,2,3,270430,5,X954,27.0,Masculino,Preta,Negra,4 a 7 anos,Outros,X95,True,Arma de fogo
+2,13082025,428,1,4,3,270030,1,W019,28.0,Masculino,Parda,Negra,4 a 7 anos,Hospital,W01,False,
+2,13082025,428,1,4,2,270030,1,B200,28.0,Masculino,Parda,Negra,1 a 3 anos,Hospital,B20,False,
+2,09082025,429,1,4,2,270255,1,W019,29.0,Masculino,Parda,Negra,1 a 3 anos,Hospital,W01,False,
+2,08082025,421,1,4,4,270140,1,V234,21.0,Masculino,Parda,Negra,8 a 11 anos,Hospital,V23,False,
+2,12082025,422,1,4,4,270030,4,X954,22.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,X95,True,Arma de fogo
+2,11082025,422,1,4,4,270670,5,R99,22.0,Masculino,Parda,Negra,8 a 11 anos,Outros,R99,False,
+2,06072025,427,1,4,9,270020,4,X954,27.0,Masculino,Parda,Negra,,Via pública,X95,True,Arma de fogo
+2,20122025,424,1,4,4,270690,4,V434,24.0,Masculino,Parda,Negra,8 a 11 anos,Via pública,V43,False,

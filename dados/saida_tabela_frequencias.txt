@@ -1,0 +1,9 @@
+
+Tabela - Meio do homicídio, residentes em AL, 2025:
+                    n  percentual
+meio_homicidio                   
+Arma de fogo      832       75.16
+Objeto cortante   132       11.92
+Outros            143       12.92
+Total            1107       100.0
+Denominador: todos os homicídios. Fonte: SIM/DATASUS, preliminar. Download original: 23/09/2026.

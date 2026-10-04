@@ -1,0 +1,4 @@
+Observações (óbitos): 22936
+Variáveis: 87
+Diferença em relação ao esperado: 0.278%
+É a mesma cópia de 23/09/2026? True
