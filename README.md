@@ -13,9 +13,7 @@ Este projeto reúne os códigos e os resultados da **Parte 1** do trabalho de Bi
 
 A pergunta que orienta o trabalho é: entre homens de 15 a 29 anos que morreram em Alagoas, a raça/cor negra está associada ao óbito por homicídio? O perfil das vítimas varia conforme o meio empregado?
 
-Nesta etapa, o objetivo é preparar e conhecer os dados: importar, conferir, construir as variáveis, registrar as exclusões e produzir uma tabela de frequências e um histograma. **A Parte 2 e os testes estatísticos não foram realizados neste projeto.** Assim, os resultados apresentados aqui não respondem à pergunta de associação.
-
-O trabalho foi desenvolvido em **Python**, conforme a autorização da professora informada pelo grupo.
+O trabalho foi desenvolvido em **Python**, conforme a autorização da professora.
 
 ## Fonte dos dados
 
