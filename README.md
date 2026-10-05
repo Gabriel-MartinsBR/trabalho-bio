@@ -163,9 +163,7 @@ Sub-registro, causas imprecisas, eventos de intenção indeterminada e informaç
 
 O apoio de IA incluiu a geração e a revisão de código e de explicações. Durante a revisão, foram corrigidos o caminho do CSV, a interpretação das unidades de idade, o tratamento dos códigos ignorados e o dicionário das variáveis. Os resultados numéricos apresentados foram obtidos pela execução dos scripts sobre a base fornecida e conferidos nessa cópia.
 
-O uso dessas ferramentas está declarado de forma transparente e não substitui a compreensão do código, a avaliação crítica das respostas ou a responsabilidade dos integrantes pelo conteúdo entregue. Antes da entrega, cada integrante deve revisar o material e confirmar que consegue explicar o código e as decisões adotadas.
 
-**Este README também foi elaborado com auxílio do ChatGPT/Codex.**
 
 ## Referências
 
