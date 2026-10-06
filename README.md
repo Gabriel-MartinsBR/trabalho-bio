@@ -195,7 +195,7 @@ Sub-registro, causas imprecisas, eventos de intenção indeterminada e informaç
 
 O apoio de IA incluiu a geração e a revisão de código e de explicações. Durante a revisão, foram corrigidos o caminho do CSV, a interpretação das unidades de idade, o tratamento dos códigos ignorados e o dicionário das variáveis. Os resultados numéricos apresentados foram obtidos pela execução dos scripts sobre a base fornecida e conferidos nessa cópia.
 
-
+OBS: A ideia de criação dessa pasta R do repositório era de realizar a conversão de todos os scripts executados em python para R, contudo por questões de praticidade a ideia foi tirada de cogitação.
 
 ## Referências
 
