@@ -1,6 +1,6 @@
 # Trabalho de Bioestatística - Parte 1
 
-Mantive a organização que já estava sendo utilizada, com `dados`, `python` e `r`. As etapas estão em arquivos separados e numerados. A pasta `r` continua reservada; esta parte foi feita em Python, conforme a autorização informada.
+Mantive a organização que já estava sendo utilizada, com `dados`, `python` e `r`. As etapas estão em arquivos separados e numerados. 
 
 ```text
 Trabalho_Bioestatistica/
@@ -28,8 +28,6 @@ Trabalho_Bioestatistica/
         09_limitacoes_e_erros.py
     entrega/
         Parte1_Gabriel_Hadassah_Ruanytha.py
-    r/
-    requirements.txt
 ```
 
 Os arquivos `DOAL2025.dbc` e `DOAL2025.csv` são os originais de 23/09/2026. O tratamento é salvo em outro CSV. Se o DBF original já estiver na sua pasta, ele também permanece lá.
