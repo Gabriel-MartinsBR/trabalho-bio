@@ -7,6 +7,38 @@ Universidade Federal do Triângulo Mineiro (UFTM) — Medicina — Turma 101
 **Disciplina:** Bioestatística.  
 **Professora:** Ana Paula Fernandes.
 
+# Nome(s): Gabriel Martins, Hadassah Teodoro e Ruanytha Miranda
+# Matrícula(s): d202510498, d202520450 e d202520419
+# Enunciado n: 2
+#
+# DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL
+# Usei ferramenta de IA neste trabalho? ( ) Não (X) Sim
+#
+# Se sim:
+# Qual(is) ferramenta(s): ChatGPT (por meio do Codex) para realizar a criação do código 5 em diante e Claude para auxiliar na interpretação e extração de dados FTP.
+#
+# Em quais partes usei (seja específico):
+# Claude: auxílio na elaboração do rascunho de tratamento das variáveis.
+# ChatGPT/Codex: revisão e conclusão dos códigos da Parte 1,
+# conferência da codificação das variáveis, organização dos arquivos,
+# execução e verificação dos resultados e apoio à documentação.
+#
+# O que pedi a ela:
+# Auxílio para interpretar e tratar as variáveis do SIM, concluir
+# somente a Parte 1 em Python e organizar do arquivo 5 em diante,
+# números de controle, exclusões, tabela de frequências, histograma
+# e limitações da base.
+#
+# O que eu alterei ou corrigi na resposta dela:
+# Na revisão assistida, foram corrigidos o caminho do arquivo CSV,
+# a codificação das unidades de IDADE, o tratamento de IDADE=999
+# e SEXO=0, o dicionário e os comentários com os resultados obtidos.
+# Os códigos foram executados e os números conferidos na base
+# original baixada em 23/09/2026.
+#
+# Declaro que compreendo todo o código que estou entregando e que sou
+# capaz de explicá-lo oralmente.
+# ---------------------------------------------------------------
 ## Sobre o projeto
 
 Este projeto reúne os códigos e os resultados da **Parte 1** do trabalho de Bioestatística. Utiliza os microdados do Sistema de Informações sobre Mortalidade (SIM/DATASUS), referentes aos **óbitos de residentes em Alagoas, em 2025**.
