@@ -1,0 +1,76 @@
+{
+  "n_base": 22936,
+  "n_homicidios": 1107,
+  "n_jovens": 1124,
+  "n_associacao": 1104,
+  "controles": {
+    "jovens_ambos_sexos": 1365,
+    "arma_fogo": 832,
+    "raca_ausente_homicidios": 12
+  },
+  "idade_homicidios": {
+    "n": 1107,
+    "mediana": 28.0,
+    "q1": 22.0,
+    "q3": 37.0
+  },
+  "ecologica": {
+    "n": 100,
+    "municipios_total": 102,
+    "municipios_excluidos": 2,
+    "obitos_excluidos": 32,
+    "rho": -0.25348718540712256,
+    "rho2": 0.06425575316562493,
+    "p": 0.01095,
+    "p_assintotico": 0.010936881880589557,
+    "ic95": [
+      -0.4326442787765958,
+      -0.0652559345703396
+    ],
+    "poder": 0.7231546474860763,
+    "permutacoes": 19999,
+    "bootstrap": 5000,
+    "rho_sensibilidade": -0.03853750255453687,
+    "p_sensibilidade_assintotico": 0.7034471161624428,
+    "mediana_ausencia_esc": 17.72715370515842,
+    "min_ausencia_esc": 2.857142857142857,
+    "max_ausencia_esc": 47.61904761904762
+  },
+  "associacao": {
+    "chi2": 36.514251090743,
+    "gl": 1,
+    "p": 1.5155413943065359e-09,
+    "esperada_min": 30.88768115942029,
+    "phi": 0.18186396784296238,
+    "odds_ratio": 7.430443548387097,
+    "ic95": [
+      3.501490450439681,
+      15.767997116437815
+    ],
+    "poder": 0.9999777459342175,
+    "exclusoes_raca": 14,
+    "exclusoes_amarela": 1,
+    "exclusoes_indigena": 5
+  },
+  "comparacao": {
+    "H": 29.300774802028723,
+    "gl": 2,
+    "p": 4.339279193813288e-07,
+    "epsilon2": 0.02472896268299703,
+    "f_aproximado": 0.1592356430383591,
+    "poder": 0.9985616050500788,
+    "n": 1107,
+    "excluidos": 0,
+    "levene_estatistica": 11.313450211641996,
+    "levene_p": 1.3686869293945853e-05
+  },
+  "ambiente": {
+    "python": "3.12.14",
+    "pandas": "3.0.1",
+    "numpy": "2.5.5",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2"
+  },
+  "sha256_tratado": "8e9fcd8ff22672b9a9872856b8d8cdb0b2d5368659cd6e7264fb1aa2d9c764df",
+  "semente": 20261123
+}

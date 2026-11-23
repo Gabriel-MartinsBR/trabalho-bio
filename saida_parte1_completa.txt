@@ -1,0 +1,210 @@
+O arquivo já foi baixado: C:\Users\Gabriel\.codex\.chatgpt-projects\g-p-6ac2db385e288191ae600e8cc608f09d\output\Trabalho_Bioestatistica_Organizado\dados\DOAL2025.dbc
+(22936, 87)
+  ORIGEM TIPOBITO   DTOBITO HORAOBITO  ... DTCONCASO FONTESINF ALTCAUSA CONTADOR
+0      1        2  09012025      1830  ...      <NA>      <NA>     <NA>      154
+1      1        2  19012025      1129  ...      <NA>      <NA>     <NA>      156
+2      1        2  19012025      0912  ...      <NA>      <NA>     <NA>      157
+3      1        2  18012025      2035  ...      <NA>      <NA>     <NA>      158
+4      1        2  17012025      2228  ...      <NA>      <NA>     <NA>      159
+
+[5 rows x 87 columns]
+Salvo em: C:\Users\Gabriel\.codex\.chatgpt-projects\g-p-6ac2db385e288191ae600e8cc608f09d\output\Trabalho_Bioestatistica_Organizado\dados\DOAL2025.csv
+Observações (óbitos): 22936
+Variáveis: 87
+Diferença em relação ao esperado: 0.278%
+É a mesma cópia de 23/09/2026? True
+Tipos de dados:
+CAUSABAS     string
+IDADE        string
+SEXO         string
+RACACOR      string
+ESC          string
+LOCOCOR      string
+CODMUNRES    string
+dtype: object
+
+--- CAUSABAS ---
+Valores únicos: 1538
+Faltantes (NaN): 0
+CAUSABAS
+I219    1550
+J189    1004
+I64      882
+I10      678
+X954     639
+R99      584
+A419     493
+E149     409
+N390     337
+I694     320
+I509     315
+C349     299
+I110     296
+J440     291
+I678     286
+Name: count, dtype: Int64
+
+--- IDADE ---
+Valores únicos: 196
+Faltantes (NaN): 0
+IDADE
+477    548
+481    531
+473    509
+480    507
+474    495
+472    494
+478    494
+476    485
+471    485
+479    483
+475    483
+485    468
+469    465
+467    456
+482    450
+Name: count, dtype: Int64
+
+--- SEXO ---
+Valores únicos: 3
+Faltantes (NaN): 0
+SEXO
+1    12859
+2    10071
+0        6
+Name: count, dtype: Int64
+
+--- RACACOR ---
+Valores únicos: 5
+Faltantes (NaN): 627
+RACACOR
+4       15905
+1        4821
+2        1345
+<NA>      627
+3         139
+5          99
+Name: count, dtype: Int64
+
+--- ESC ---
+Valores únicos: 6
+Faltantes (NaN): 3066
+ESC
+1       6138
+3       4707
+4       3129
+2       3113
+<NA>    3066
+9       1801
+5        982
+Name: count, dtype: Int64
+
+--- LOCOCOR ---
+Valores únicos: 6
+Faltantes (NaN): 0
+LOCOCOR
+1    13555
+3     5447
+2     1957
+5      989
+4      974
+9       14
+Name: count, dtype: Int64
+
+--- CODMUNRES ---
+Valores únicos: 102
+Faltantes (NaN): 0
+CODMUNRES
+270430    6981
+270030    1751
+270770     661
+270630     621
+270930     496
+270470     433
+270670     426
+270860     393
+270240     390
+270230     381
+270800     343
+270915     278
+270040     269
+270290     256
+270690     256
+Name: count, dtype: Int64
+
+Dicionário:
+ variavel                             o_que_registra                                                                                           codificacao                                           tipo_estatistico
+ CAUSABAS              Causa básica do óbito, CID-10                               Texto, ex. I219 ou X954; primeiros 3 caracteres identificam a categoria                                        Qualitativa nominal
+    IDADE      Idade ao óbito com unidade codificada            3 dígitos: 0 minutos, 1 horas, 2 dias, 3 meses, 4 anos, 5 = 100 + valor; 000/999 ignorados Quantitativa contínua; anos completos na variável derivada
+     SEXO     Sexo registrado na declaração de óbito                                                                 1 masculino; 2 feminino; 0/9 ignorado                                        Qualitativa nominal
+  RACACOR Raça/cor registrada na declaração de óbito                                  1 branca; 2 preta; 3 amarela; 4 parda; 5 indígena; 9/branco ignorado                                        Qualitativa nominal
+      ESC   Escolaridade em faixas de anos de estudo                    1 nenhuma; 2 de 1 a 3; 3 de 4 a 7; 4 de 8 a 11; 5 de 12 ou mais; 9/branco ignorado                                        Qualitativa ordinal
+  LOCOCOR               Local de ocorrência do óbito 1 hospital; 2 outro estabelecimento de saúde; 3 domicílio; 4 via pública; 5 outros; 9/branco ignorado                                        Qualitativa nominal
+CODMUNRES                    Município de residência                                   Código IBGE de 6 dígitos, texto identificador; prefixo 27 = Alagoas                                        Qualitativa nominal
+Residentes em Alagoas: 22936 | excluídos: 0
+Óbitos de 2025: 22936 | excluídos: 0
+Óbitos não fetais: 22936 | excluídos: 0
+
+Comprimento original de IDADE:
+IDADE
+3    22936
+Unidades de IDADE:
+IDADE
+0       38
+1       92
+2      265
+3      178
+4    22124
+5      235
+9        4
+Idade em anos completos:
+count      22932.0
+mean     64.071908
+std      22.397317
+min            0.0
+25%           52.0
+50%           69.0
+75%           80.0
+max          115.0
+
+Faltantes depois do tratamento:
+idade_anos         4
+sexo               6
+raca             627
+raca_grupo       865
+escolaridade    4867
+local_obito       14
+homicidio          0
+dtype: int64
+Salvo em: C:\Users\Gabriel\.codex\.chatgpt-projects\g-p-6ac2db385e288191ae600e8cc608f09d\output\Trabalho_Bioestatistica_Organizado\dados\DOAL2025_tratado.csv
+1) Homicídios, todas as idades: 1107
+2) Óbitos por qualquer causa, 15 a 29 anos, ambos os sexos: 1365
+3) Homicídios por arma de fogo: 832
+4) Homicídios com raça/cor ignorada ou em branco: 12
+Homens: 12859 | excluídos: 10077
+Homens com idade conhecida: 12855 | excluídos: 4
+Homens de 15 a 29 anos: 1124 | excluídos: 11731
+Raça/cor dos homens jovens:
+raca
+Parda       1023
+Branca        62
+Preta         19
+<NA>          14
+Indígena       5
+Amarela        1
+Name: count, dtype: Int64
+Com raça negra ou branca: 1104 | excluídos: 20
+Recorte salvo em: C:\Users\Gabriel\.codex\.chatgpt-projects\g-p-6ac2db385e288191ae600e8cc608f09d\output\Trabalho_Bioestatistica_Organizado\dados\homens_15_29_negra_branca.csv
+
+Tabela - Meio do homicídio, residentes em AL, 2025:
+                    n  percentual
+meio_homicidio                   
+Arma de fogo      832       75.16
+Objeto cortante   132       11.92
+Outros            143       12.92
+Total            1107       100.0
+Denominador: todos os homicídios. Fonte: SIM/DATASUS, preliminar. Download original: 23/09/2026.
+Homicídios no gráfico: 1107
+Excluídos do gráfico por idade ignorada: 0
+Gráfico salvo em: C:\Users\Gabriel\.codex\.chatgpt-projects\g-p-6ac2db385e288191ae600e8cc608f09d\output\Trabalho_Bioestatistica_Organizado\dados\graficos\histograma_idade_homicidios.png
+Parte 1 concluída. As limitações e o diário de erros estão nos comentários deste arquivo.

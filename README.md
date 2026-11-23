@@ -1,3 +1,30 @@
+# Bioestatística — Partes 1 e 2
+
+**Homicídios, juventude e raça/cor · Alagoas, 2025 · UFTM**
+
+Gabriel Martins · Hadassah Teodoro · Ruanytha Miranda
+
+## Parte 2 — Relatório e análises
+
+A continuação usa a mesma base da Parte 1, sem novo download. Foram executados os quatro blocos: descritivos, correlação municipal, associação racial em homens jovens e comparação da idade segundo meio empregado.
+
+- **[Abrir relatório PDF](entrega/Parte2_Gabriel_Hadassah_Ruanytha.pdf)** — 10 páginas + anexo.
+- [Ler relatório no GitHub](parte2/RELATORIO.md).
+- [Instruções, decisões e resultados da Parte 2](parte2/README.md).
+- [Código Python executado](parte2/analisar.py) e [verificação independente](parte2/verificacao.txt).
+- [Script R completo](entrega/Parte2_Gabriel_Hadassah_Ruanytha.R) — fornecido para validação local, ainda não executado.
+- [Tabelas CSV](parte2/tabelas/) e [gráficos](parte2/graficos/).
+
+Para reproduzir, na raiz: `python -m pip install -r parte2/requirements.txt`, depois `python parte2/analisar.py`, `python parte2/verificar.py` e `python parte2/gerar_relatorio.py`.
+
+**Uso de IA na Parte 2:** ChatGPT/Codex apoiou geração e revisão do código, execução, cálculos e redação. A versão Python foi executada; a versão R precisa ser conferida em uma instalação de R. Os integrantes devem revisar as interpretações e confirmar compreensão oral antes da entrega.
+
+## Documentação preservada da Parte 1
+
+O conteúdo abaixo registra a entrega original; as menções a “somente Parte 1” e sua declaração histórica de IA referem-se àquela etapa. Para a continuação, consulte os links acima.
+
+---
+
 # Trabalho de Bioestatística
 
 **Homicídios, juventude e raça/cor — Enunciado nº 2**  

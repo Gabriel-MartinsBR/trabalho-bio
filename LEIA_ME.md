@@ -1,3 +1,5 @@
+> Atualização: a Parte 2 está concluída em Python e documentada em [parte2/README.md](parte2/README.md). A versão R fornecida precisa de execução local.
+
 # Trabalho de Bioestatística - Parte 1
 
 Mantive a organização que já estava sendo utilizada, com `dados`, `python` e `r`. As etapas estão em arquivos separados e numerados. 
@@ -81,6 +83,6 @@ Ela reproduz os mesmos resultados dos arquivos separados. Antes de entregar, pre
 - Homicídios com raça/cor ignorada ou em branco: 12.
 - Homens de 15 a 29 anos: 1.124; no contraste negra x branca: 1.104.
 
-A tabela do meio empregado e o dicionário ficam em `dados/tabelas`. O histograma fica em `dados/graficos`. Não foi feita a Parte 2.
+A tabela do meio empregado e o dicionário ficam em `dados/tabelas`. O histograma fica em `dados/graficos`. A Parte 2 foi acrescentada: consulte parte2/README.md e entrega/Parte2_Gabriel_Hadassah_Ruanytha.pdf.
 
 As referências de codificação estão no script de entrega e na proveniência da base. Na atualização da pasta da Área de Trabalho, os arquivos antigos são guardados em `python/historico` antes da substituição.

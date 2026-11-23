@@ -1,0 +1,10 @@
+(22936, 87)
+  ORIGEM TIPOBITO   DTOBITO HORAOBITO  ... DTCONCASO FONTESINF ALTCAUSA CONTADOR
+0      1        2  09012025      1830  ...      <NA>      <NA>     <NA>      154
+1      1        2  19012025      1129  ...      <NA>      <NA>     <NA>      156
+2      1        2  19012025      0912  ...      <NA>      <NA>     <NA>      157
+3      1        2  18012025      2035  ...      <NA>      <NA>     <NA>      158
+4      1        2  17012025      2228  ...      <NA>      <NA>     <NA>      159
+
+[5 rows x 87 columns]
+Salvo em: C:\Users\Gabriel\.codex\.chatgpt-projects\g-p-6ac2db385e288191ae600e8cc608f09d\output\Trabalho_Bioestatistica_Organizado\dados\DOAL2025.csv

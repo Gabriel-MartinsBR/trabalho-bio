@@ -1,0 +1,10 @@
+VERIFICAÇÃO CONCLUÍDA
+CSV original: 22.936 linhas x 87 colunas.
+Idade e homicídio reconstruídos do original coincidem com a Parte 1.
+Controles: 1.107 homicídios; 1.365 jovens; 832 armas de fogo; 12 raças ausentes.
+Tabela racial refeita do original: [[546,496],[8,54]], n=1.104.
+Qui-quadrado conferido pela fórmula das frequências esperadas.
+Kruskal-Wallis conferido pela soma dos postos com correção de empates.
+102 municípios; 100 incluídos; 32 óbitos em dois municípios excluídos.
+Hash SHA-256 da base tratada confirmado.
+Versão R: não executada neste ambiente; pendente validação em R.

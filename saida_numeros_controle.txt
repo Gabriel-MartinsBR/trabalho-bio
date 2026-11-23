@@ -1,0 +1,18 @@
+1) Homicídios, todas as idades: 1107
+2) Óbitos por qualquer causa, 15 a 29 anos, ambos os sexos: 1365
+3) Homicídios por arma de fogo: 832
+4) Homicídios com raça/cor ignorada ou em branco: 12
+Homens: 12859 | excluídos: 10077
+Homens com idade conhecida: 12855 | excluídos: 4
+Homens de 15 a 29 anos: 1124 | excluídos: 11731
+Raça/cor dos homens jovens:
+raca
+Parda       1023
+Branca        62
+Preta         19
+<NA>          14
+Indígena       5
+Amarela        1
+Name: count, dtype: Int64
+Com raça negra ou branca: 1104 | excluídos: 20
+Recorte salvo em: C:\Users\Gabriel\.codex\.chatgpt-projects\g-p-6ac2db385e288191ae600e8cc608f09d\output\Trabalho_Bioestatistica_Organizado\dados\homens_15_29_negra_branca.csv

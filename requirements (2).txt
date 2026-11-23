@@ -1,0 +1,6 @@
+# Ambiente exato da execução Python 3.12.14, registrado em resultados.json.
+pandas==3.0.1
+numpy==2.5.5
+scipy==1.18.1
+matplotlib==3.11.2
+reportlab>=4,<5

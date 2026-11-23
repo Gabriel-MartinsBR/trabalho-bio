@@ -1,0 +1,3 @@
+Homicídios no gráfico: 1107
+Excluídos do gráfico por idade ignorada: 0
+Gráfico salvo em: C:\Users\Gabriel\.codex\.chatgpt-projects\g-p-6ac2db385e288191ae600e8cc608f09d\output\Trabalho_Bioestatistica_Organizado\dados\graficos\histograma_idade_homicidios.png

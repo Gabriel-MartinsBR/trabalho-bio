@@ -1,0 +1,1 @@
+Parte 1 concluída. As limitações e o diário de erros estão nos comentários deste arquivo.

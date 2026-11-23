@@ -1,0 +1,21 @@
+﻿variavel,categoria,n,percentual_dos_homicidios
+sexo,Masculino,1005,90.78590786
+sexo,Feminino,101,9.123757904
+sexo,Não informado,1,0.09033423668
+raca,Parda,1057,95.48328817
+raca,Branca,24,2.16802168
+raca,Não informado,12,1.08401084
+raca,Preta,10,0.9033423668
+raca,Indígena,4,0.3613369467
+escolaridade,4 a 7 anos,551,49.77416441
+escolaridade,8 a 11 anos,225,20.32520325
+escolaridade,1 a 3 anos,157,14.18247516
+escolaridade,Não informado,92,8.310749774
+escolaridade,Nenhuma,56,5.058717254
+escolaridade,12 anos ou mais,26,2.348690154
+local_obito,Via pública,454,41.01174345
+local_obito,Outros,273,24.66124661
+local_obito,Hospital,202,18.24751581
+local_obito,Domicílio,162,14.63414634
+local_obito,Outro estabelecimento de saúde,15,1.35501355
+local_obito,Não informado,1,0.09033423668

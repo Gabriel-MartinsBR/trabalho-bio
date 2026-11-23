@@ -1,0 +1,12 @@
+{
+  "fonte": "ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/PRELIM/DORES/DOAL2025.dbc",
+  "data_download_original": "2026-09-23",
+  "confirmacao_data": "Confirmada por Gabriel na conversa em 2026-10-04",
+  "preliminar": true,
+  "observacoes": 22936,
+  "variaveis": 87,
+  "sha256_dbc": "4705df8a3a0170f66ece6b4b9bde0ffba4241583dcd0ef362f13a182b9a12518",
+  "sha256_csv": "ba754138484a991871d19564b9eaedff73d15bfe6f55648af9a570e331c123af",
+  "verificacao_csv": "CSV idêntico ao DBF original em todas as linhas e colunas",
+  "nota": "Cópia dos arquivos fornecidos pelo usuário, sem novo download ou alteração dos originais"
+}
